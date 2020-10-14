@@ -5,7 +5,7 @@
 ## Guía de planificación do proxecto
 
 ### Metodoloxía
-
+Indica a metodoloxía que se utilizará para a elaboración do proxecto: ciclo en cascada, incremental, espiral... Xustifica a elección.
 
 ### Fases planificadas
 
@@ -43,7 +43,7 @@ Duración:
 ...
 
 ### Diagrama de Gantt
-Un diagrama de Gantt é unha representación gráfica da secuenciación que tes que seguir para realizar as tarefas planificadas. Pódese usar o software "Gantt project" ou calquera outro que permita representar nun cronograma a información relativa á planificación de tarefas. 
+Un diagrama de Gantt é unha representación gráfica da secuenciación que tes que seguir para realizar as tarefas planificadas. Pódese usar o software "Gantt project" ou calquera outro que permita representar nun cronograma a información relativa á planificación de tarefas. Neste diagrama plasmarás de forma gráfica e manexable as fases e tarefas anteriores.
 
 ## Orzamento
 O orzamento do proxecto será a suma do importe dos materiais que necesites para realizar o proxecto máis o importe que corresponde ao traballo realizado. 
