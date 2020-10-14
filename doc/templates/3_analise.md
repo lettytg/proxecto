@@ -7,7 +7,7 @@ Descrición Xeral do proxecto
 
 ## Funcionalidades
 Describir que servizos ou operacións se van poder realizar por medio do noso proxecto, indicando que actores interveñen en cada caso.
-Enumeralas, de maneira que na fase de deseño poidamos definir o diagrama ou configuración correspondente a cada funcionalidade.
+Enumeralas (cunha breve descripción se aplica), de maneira que na fase de deseño poidamos definir o diagrama ou configuración correspondente a cada funcionalidade.
 
 Exemplo:
  1. Xestión de clientes na BD
@@ -36,7 +36,7 @@ Analizar as opcións hardware existentes e xustificar a idoneidade dos compoñen
 Analizar as opcións software existentes e xustificar a idoneidade dos compoñentes seleccionados.
 
 ## Interfaces externos
-En caso dun proxecto orientado ao desenvolvemento de software, indicar (se procede) como se comunicará o noso software co exterior. É posible que só teña interfaces de usuario, que normalmente son as pantallas. Un exemplo de interface hardware sería un lector de código de barras.
+En caso dun proxecto orientado ao desenvolvemento de software, indicar (se procede) como se comunicará o noso software co exterior. É posible que só teña interfaces de usuario, que normalmente son as pantallas. Un exemplo de interface hardware sería un lector de código de barras. As interfaces software son aquelas que se comunican con outro software, como por exemplo un servicio web ao que se conectan aplicacións cliente.
 
 ### Interfaces de usuario
 
