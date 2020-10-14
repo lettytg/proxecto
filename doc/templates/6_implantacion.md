@@ -33,5 +33,11 @@ Poden ser incidencias de dous tipos: de sistema (accesos non autorizados á BD, 
 
 ## Manual de usuario
 
-* Indicar se será necesario formar ós usuarios. En caso afirmativo planificar.
+* Indicar se será necesario formar ós usuarios. En caso afirmativo planificar e xustificar.
 * Manual de usuario, FAQ ou outro xeito que sexa o máis adecuado para que os usuarios saiban usar a nosa aplicación informática.
+
+## Manual de administrador
+
+* Indicar se será necesario formar ós administradores. En caso afirmativo planificar e xustificar.
+* Manual de administración, FAQ ou outro xeito que sexa o máis adecuado para que os administradores da nosa aplicación informática.
+* Poden existir varios manuais ou unificarse, dependendo do sistema do proxecto: manual do dba, manual do servidor, de servicios...
