@@ -11,7 +11,7 @@ Os servidores para o seu correcto funcionamento precisan traballar dentro de un 
 
 ## Instalación / Puesta en marcha
 
-> 
+> Ver [Implantación]((doc/templates/6_implantacion.md))
 
 ## Uso
 
