@@ -20,7 +20,7 @@ Os servidores para o seu correcto funcionamento precisan traballar dentro de un 
 
 ## Sobre o autor
 
-O meu nome é Leticia Tuñas García, son Técnico en Sistemas Microinformáticos e Redes (SMR), actualmente estudo Administración de Sistemas Informáticos en Rede, estou traballando na empresa na que estou realizando as prácticas e realizando este mesmo proxecto. Ao mesmo tempo tamén estou estudando Desenrolo de Aplicacións Multiplataforma.
+O meu nome é Leticia Tuñas García, son Técnico en Sistemas Microinformáticos e Redes (SMR), actualmente estudo Administración de Sistemas Informáticos en Rede, estou desarrollando este mesmo proxecto e traballando na empresa na que estou realizando as prácticas. Ao mesmo tempo tamén estou estudando o primeiro ano de Desenrolo de Aplicacións Multiplataforma.
 
 Este proxecto ten como finalidade demostrar as vantaxes de usar unha ferramenta de monitorización, aportando, estabilidade, dispoñibilidade e rendemento, integrando esta ferramenta nunha rede en onde se pretende dispor de información instantánea de problemas en servidores e servizos.
 
