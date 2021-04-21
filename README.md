@@ -1,6 +1,6 @@
 # Monitorización e xestión de alertas con Zabbix e Rasperry Pi.
 
-##Descripción
+## Descripción
 
 As infraestruras de rede, cada vez máis, soportan multitude de aplicacións e servizos, sendo necesario incluír ferramentas de análise de logs e monitoreo para garantir a dispoñibilidade e accesibilidade dos servizos. 
 
