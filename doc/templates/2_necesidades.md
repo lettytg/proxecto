@@ -1,9 +1,26 @@
 # ESTUDO DE NECESIDADES E MODELO DE NEGOCIO
 
-## Xustificación das necesidades detectadas que cubre o sistema a desenvolver
+## Xustificación das necesidades 
+
+
+
 1.	Describe o problema ou a necesidade.
-2.	Por que é necesaria a posta en marcha dun proxecto que aborde dita necesidade?
+
+Segun se recolle no documento de análise "A sociedade da información nas empresas de Galiza" na súa edición do 2016, realizado por OSIMGA (Observatorio da Sociedade da información e a Modernización de Galiza), o 100% da empresas galegas, independentemente do seu tamaño, dispoñen de equipos, o cal non é nada sorprendente na época actual. No mesmo estudo tamén se recolle que polo menos o 70% das empresas galegas dispoñen de servidores, porcentaxe que se incrementa ata o 95% no caso de empresas de ata 9 empregados e para as de máis de 10 empregados alcanza o 100%.
+
+Para manter todas as estruturas, é importante ter un software de monitorización sobre todos os servidores, para como mínimo saber si están funcionando correctamente os servizos despregados en eles. Para isto son fundamentais ferramentas como Zabbix que permiten automatizar este proceso. 
+
+Outra das cousas importantes que nunca se teñen en conta é a refrixeración das salas de servidores, nas cales como mínimo deberían haber sensores de temperatura e humidade, para poder controlar o clima das salas para minimizar os riscos que poidan acontecer nun futuro.
+
+
 3.	Cal é o obxectivo xeral que persegue o proxecto?
+
+O obxectivo é deresenrolar 
+
+
+
+
+
 4.	Responde a estas preguntas concretas:
 
     4.1.Como se pode responder a esta necesidade? 
