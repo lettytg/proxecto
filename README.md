@@ -1,13 +1,15 @@
-# Monitorización e xestión de alertas con Zabbix e Rasperry Pi.
+# Monitorización de invernadoiro con Zabbix.
 
 ## Descripción
 
-As infraestruras de rede, cada vez máis, soportan multitude de aplicacións e servizos, sendo necesario incluír ferramentas de análise de logs e monitoreo para garantir a dispoñibilidade e accesibilidade dos servizos. 
+O proxecto consiste en crear un mecanismo de monitorización e control de temperatura e humidade para os cultivos do invernadoiro.
 
-En este proxecto vamos a implantar Zabbix como ferramenta de monitorización, utilizando unha Raspberry Pi, na cal monitorizaremos unha rede de servidores.
+A idea sería crear unha infraestrutura na cal poidamos mellorar a calidade dos nosos cultivos, de unha maneira automática e desatendida para o usuario encargado, para iso teríamos que levar un control da temperatura e humidade do invernadoiro. 
+Para controlar isto necesitaríamos un microordenador como por exemplo unha Raspberry Pi, un sensor que leve o control ambiental e un dispositivo hardware para a súa ventilación.
 
-Os servidores para o seu correcto funcionamento precisan traballar dentro de un rango de temperaturas, onde sería desexable que no lugar onde se encontren estivese dotado de algunhas medidas de seguridade como por exemplo sensores de temperatura e humidade, no cal cando se supere ese rango de temperatura se acenda un ventilador simulando que é un sistema de refrixeración. 
+Para abarcar todo o mencionado, necesitaremos un sistema de tempo real que controle a cantidade de temperatura e humidade do invernadoiro, en este utilizaríamos Zabbix.
 
+Zabbix permitiranos recompilar información dos sensores que irán conectados a placa e enviar ordes aos dispositivos de ventilación e humificador.
 
 ## Instalación / Puesta en marcha
 
@@ -20,16 +22,18 @@ Os servidores para o seu correcto funcionamento precisan traballar dentro de un 
 
 ## Sobre o autor
 
-O meu nome é Leticia Tuñas García, son Técnico en Sistemas Microinformáticos e Redes (SMR), actualmente estudo Administración de Sistemas Informáticos en Rede, estou desarrollando este mesmo proxecto e traballando na empresa na que estou realizando as prácticas. Ao mesmo tempo tamén estou estudando o primeiro ano de Desenrolo de Aplicacións Multiplataforma.
+O meu nome é Leticia Tuñas García, son Técnico en Sistemas Microinformáticos e Redes (SMR), actualmente estudo Administración de Sistemas Informáticos en Rede, 
+estou desarrollando este mesmo proxecto e traballando na empresa na que estou realizando as prácticas. Ao mesmo tempo tamén estou estudando o primeiro ano de Desenrolo de Aplicacións Multiplataforma.
 
-Este proxecto ten como finalidade demostrar as vantaxes de usar unha ferramenta de monitorización, aportando, estabilidade, dispoñibilidade e rendemento, integrando esta ferramenta nunha rede en onde se pretende dispor de información instantánea de problemas en servidores e servizos.
+Este proxecto é unha oportunidade para poder ver un sistema de monitorización implantado nunha infraestrutura pouco común, como é un invernadoiro.
 
 Todo isto xurde como unha inquietude, xa que durante os anos cursados, nunca nos adentramos no mundo da monitorización, por iso, con este proxecto espero levar unha gran aprendizaxe.
 
 
 ## Licenza
 
-En termos de licenza, autorizase a distribución, copia e modificación do documento baixo os termos da Licenza de Documentación libre GNU, versión 1.3, ou calquera outra que posteriormente publique a Fundación para o Software Libre, sen seccións invariantes, textos de portada, nin texto de contraportada.
+En termos de licenza, autorizase a distribución, copia e modificación do documento baixo os termos da Licenza de Documentación libre GNU, versión 1.3, 
+ou calquera outra que posteriormente publique a Fundación para o Software Libre, sen seccións invariantes, textos de portada, nin texto de contraportada.
 
 ## Índice
 
