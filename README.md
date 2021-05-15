@@ -9,7 +9,7 @@ Para controlar isto necesitaríamos un microordenador como por exemplo unha Rasp
 
 Para abarcar todo o mencionado, necesitaremos un sistema de tempo real que controle a cantidade de temperatura e humidade do invernadoiro, en este utilizaríamos Zabbix.
 
-Zabbix permitiranos recompilar información dos sensores que irán conectados a placa e enviar ordes aos dispositivos de ventilación e humificador.
+Zabbix permitiranos recompilar información dos sensores que irán conectados a placa e enviar ordes aos dispositivos de ventilación.
 
 ## Instalación / Puesta en marcha
 
