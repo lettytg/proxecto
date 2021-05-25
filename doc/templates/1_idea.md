@@ -1,17 +1,19 @@
 # Idea
 
-* Qué tipo de proxecto vas levar a cabo? Vas realizar únicamente a planificación e deseño ou crearás un entregable?
+Este proxecto xurde como unha necesidade que me gustaría imprantar no invernadoiro que teño na casa, xa que me gustaría automatizar máis os labores que leva manter un invernadoiro. Como ben sabemos, un invernadoiro necesita persoal que estea pendente todos os días de que a produción non se vexa danada polos cambios de tempo durante o día. Con esta imprantación teríamos moitas vantaxes, xa que teríamos un mallor control da producción e un liberamente de carga de traballo para o persoal que se dedica ao mantemento do invernadoiro. 
 
-Este proxecto consistirá en empregar unha Raspberry Pi, para dotar de intelixencia a unha sala que precisa de monitorización e algunhas medidas de seguridade utilizando o sofware de Zabbix. De forma que o responsable manteña unha comunicación co sistema proporcionado unha calidade de traballo optima a hora de realizar inspeccións pertinentes.
+Existen moitas empresas que ofrecen unha solución para que esta idea que prantexo, só que o custe é moi elevado, e a meirande parte da xente non dispon de medios para pagar estes servizos.
 
-O escenario sobre o cal se traballará ao largo do proxecto será unha simulación de unha sala de servidores en onde se encontran servidores de unha empresa e onde é convinte desenrolar sistemas de control de temperatura e humidade, grazas a incorporación de unha serie de pins de propósito xeral que posee a placa, poderemos comunicar con infinidade de sensores, en este caso utilizaremos sensores de temperatura e humidade.
+Por iso propoño crear un sistema que contará con unha serie de sensores e actuadores que irán conectados en Arduino, para que se poida facer efectivo a manipulación do medio ambiente da pranta para o seu cultivo e finalmente o seu consumo. Para iso teríamos unha serie de sensores, en este caso de temperatura e humidade e unha serie de actuadores en este caso un ventilador para baixar a temperatura e tamén airear o interior.
+
+No proxecto utilizaremos un sistema de monitorización (Zabbix) que irá imprantado na Raspberry Pi, decidín facelo nunha Raspberry Pi xa que sempre quixen invertigar o funcionamento da mesma pero nunca tiven oportunidade, igualmente a instalación do sistema de monitorización tamén se podería realizar nunha máquina virtual en calquera dos sistemas de (GNU/Linux).
+
+En este caso utilizarase unha Raspberry Pi 3 B+, un Arduino UNO, un sensor de temperatura e ventilador. Isto poderíase ampliar, agregando un sistema de rego automatizado, un panel de leds para a iluminación, un humidifacador para a humidade relativa do entorno e un sensor de humidade para controlar a humidade do terreno onde se encontran as prantas.
 
 
+O software que se utilizaría sería:
 
-
-* En que consiste o teu proxecto? Cal é o propósito principal do mesmo?
-* A quen vai destinada a aplicación? (Cómo é o contexto social do cliente ou sector da empresa á que está dirixido). 
-* Cal é a necesidade ou necesidades que se pretenden cubrir ou satisfacer? O desenvolvemento deste proxecto, abre unha oportunidade de negocio? É posible comercializalo? Como?
-* Existen na actualidade aplicacións que tenten dar resposta a esa(s) necesidade(s)? En que medida o conseguen? 
-* Qué obxectivos ten o teu proxecto? Qué requisitos básicos debe cumprir?
-* Qué tecnoloxías tes pensado empregar para levalo a cabo?
+- Sistema Operativo: Raspbian 
+- Software de monitorización: Zabbix para Raspbian.
+- Software de Arduino Uno: Arduino.
+- Securización da rede: Firewall UFW. 
