@@ -67,6 +67,11 @@
 
 - Unha vez feito isto deixaremos actualizando a Raspberry Pi:
 
+`# apt update `
+
+![raspi_1](doc/img/imaxes-raspbian/rasp11.png)
+
+`# apt upgrade `
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp11.png)
 
