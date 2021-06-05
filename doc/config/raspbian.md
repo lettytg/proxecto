@@ -262,3 +262,16 @@ de conexións simultáneas por IP que permite o servidor.
 
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp25.png)
+
+
+- Comprobamos que podemos acceder dende o noso equipo a Raspberry por SSH a través do porto 3426.
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp26.png)
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp27.png)
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp28.png)
+
