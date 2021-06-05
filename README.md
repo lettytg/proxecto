@@ -45,10 +45,11 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 2. [Análises](doc/templates/3_analise.md)
 3. [Planificación](doc/templates/4_planificacion.md)
 4. [Deseño](doc/templates/5_deseño.md)
-5. [Implantación]
-    5.1 [INSTALACIÓN E CONFIGURACIÓN DE RASPBERRY PI OS] (doc/config/raspbian.md)
-    5.2 [INSTALACIÓN E CONFIGURACIÓN DE ZABBIX PARA RASPBERRY PI OS] (doc/config/zabbix.md)
-    5.3 [INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO] (doc/config/arduino.md)
+5. Implantación
+
+    5.1. [INSTALACIÓN E CONFIGURACIÓN DE RASPBERRY PI OS](doc/config/raspbian.md)
+    5.2. [INSTALACIÓN E CONFIGURACIÓN DE ZABBIX PARA RASPBERRY PI OS](doc/config/zabbix.md)
+    5.3. [INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO](doc/config/arduino.md)
 
 
 ## Guía de contribución
