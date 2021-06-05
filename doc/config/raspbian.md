@@ -76,6 +76,12 @@
 ![raspi_1](doc/img/imaxes-raspbian/rasp12.png)
 
 
+- Vamos a cambiar o idioma que por defecto ven en Inglés. Para iso iremos a **Preferencias > Configuración Raspberry Pi > Localización**
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp17.png)
+
+
 ### INSTALACIÓN DO VNC NO EQUIPO DE TRABALLO.
 
 
