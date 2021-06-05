@@ -6,6 +6,5 @@
 Para poder utilizar este sistema operativo necesitaremos agregar a imaxe nunha MicroSD, que será incorporada na Raspberry Pi para iso descargaremola dende a súa [páxina oficial](https://www.raspberrypi.org/software/). O software que se vai utilizar chámase Raspberry Pi Imager.
 
 
-
-
+![raspi_1](doc/img/imaxes-raspbian/rasp1.PNG)
 
