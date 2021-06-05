@@ -65,7 +65,7 @@
 ![raspi_1](doc/img/imaxes-raspbian/rasp10.png)
 
 
-- Unha vez feito isto deixaremos actualizando a Raspberry Pi:
+- Unha vez feito isto logueamonos como root e deixamos actualizando o sistema:
 
 `# apt update `
 
@@ -73,7 +73,7 @@
 
 `# apt upgrade `
 
-![raspi_1](doc/img/imaxes-raspbian/rasp11.png)
+![raspi_1](doc/img/imaxes-raspbian/rasp12.png)
 
 
 
