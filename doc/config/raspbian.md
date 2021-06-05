@@ -206,9 +206,9 @@ todo o que entra na nosa máquina dende o exterior e tamén todo o que sae de el
 ## ASEGURAR O SERVIDOR SSH.
 
 
-- Se accedemo a Raspberry mediante SSH a través de Internet, deberíanos asegurar o servidor, xa que os intentos de acceso non 
-autorizado aos servidores SSH son moi frecuentes. Vemos a continuación algúns parámetros que podemos modificar ou Engadiremos
-para que o noso servidor SSH esté máis seguro.
+- Se accedemos a Raspberry mediante SSH a través de Internet, deberíanos asegurar o servidor, xa que os intentos de acceso non 
+autorizado aos servidores SSH son moi frecuentes. Vemos a continuación algúns parámetros que podemos modificar ou engadir para que o noso 
+servidor SSH esté máis seguro.
 
 
 - O primeiro que imos facer é entrar no ficheiro de configuración para realizar os cambios;
@@ -224,7 +224,7 @@ dificultaremos que intenten acceder a nosa máquina.
 `# Port 3426  `
 
 
-- Outra opción que podemos modificar é a que indica a cantidade de minutros que a pantalla de **login** estará dispoñible para que o usuarios
+- Outra opción que podemos modificar é a que indica a cantidade de minutos que a pantalla de **login** estará dispoñible para que o usuarios
 se identifiquen. Pasado ese tempo, se non nos identificamos, a conexión cerrarase.
 
 
@@ -241,7 +241,7 @@ de conexións simultáneas por IP que permite o servidor.
 `# MaxSessions 3 `
 
 
-- Tamén aseguraremonos de que non se acepten contrasinais vaciós ou en branco.
+- Tamén aseguraremonos de que non se acepten contrasinais vacíos ou en branco.
 
 
 `# PasswordAuthentication yes `
@@ -249,3 +249,16 @@ de conexións simultáneas por IP que permite o servidor.
 `# PermitEmptyPasswords no `
 
 
+- Se hai varios usuarios no sistema, podemos engadir tamén ao final do ficheiro de configuración unha opción para que só os usuarios especificados teñan acceso ao mesmo. 
+
+
+`# AllowUsers raspiad `
+
+
+- En esta opción poderemos denegar o acceso ao usuario root.
+
+
+`# DenyUsers root `
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp25.png)
