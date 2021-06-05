@@ -89,15 +89,18 @@
 
 - Para crear unha conexión iremos a Arquivo > Nova conexión:
 
-`# VNC SERVER: A ip da Raspberry Pi `
+` VNC SERVER: A ip da Raspberry Pi `
 
-`# NOME: O nome co que queremos que se garde a conexión `
+` NOME: O nome co que queremos que se garde a conexión `
 
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp14.png)
 
 
 - Seleccionamos aceptar e sairanos unha ventá que nos solicitará o nome do usuario e o contrasinal para autenticarnos na Raspberry Pi.
+
+` NOME DO USUARIO: Pi `
+` CONTRASINAL: raspberryletty `
 
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp15.png)
