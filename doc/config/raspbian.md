@@ -122,7 +122,7 @@
 ![raspi_1](doc/img/imaxes-raspbian/rasp16.png)
 
 
-## SECURIZACIÓN DO SISTEMA RASPBERRY PI OS
+## SECURIZACIÓN DO SISTEMA RASPBERRY PI OS.
 
 - A securización nos sistemas é algo primordial para evitar riscos que poidan facer peligrar a estabilidade da rede e do noso equipo.
 
