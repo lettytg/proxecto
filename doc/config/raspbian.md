@@ -8,3 +8,16 @@ Para poder utilizar este sistema operativo necesitaremos agregar a imaxe nunha M
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp1.png)
 
+
+Escollemos a imaxe que desexamos agregar na MicroSD:
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp2.png)
+
+
+Unha vez seleccionada a imaxe, escolleremos o dispostivo na cal agregará a mesma e seleccionaremos **Write** para que escriba:
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp3.png)
+
+
