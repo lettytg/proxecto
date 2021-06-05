@@ -124,6 +124,7 @@
 
 ## SECURIZACIÓN DO SISTEMA RASPBERRY PI OS
 
+- A securización nos sistemas é algo primordial para evitar riscos que poidan facer peligrar a estabilidade da rede e do noso equipo.
 
 - Para facer que a Raspberry Pi sexa máis segura, cambiaremos o usuario, xa que todas as Raspberry veñen co nome
 do usuraio predeterminado **pi**, realizando isto conseguirase que a nosa Raspberry sexa menos vulnerable a ataques.
@@ -175,31 +176,16 @@ do usuraio predeterminado **pi**, realizando isto conseguirase que a nosa Raspbe
 ![raspi_1](doc/img/imaxes-raspbian/rasp21.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- A securización nos sistemas é algo primordial para evitar riscos que poidan facer peligrar a estabilidade da rede e do noso equipo.
-
 - Instalaremos e configuraremos un cortafogos, en este caso UFW, sen un cortafogos activo, a nosa Raspberry Pi está exposta a recibir posibles 
 ataques dende Internet (ou incluso dende outro ordenadores da rede local). O cortafogos permitenos vixiar os portos de comunicacións e controlar
 todo o que entra na nosa máquina dende o exterior e tamén todo o que sae de ela hacia o exterior. En este caso elixo UFW, porque é máis fácil de configurar, de aí o seu nome "**uncomplicated firewall**".
 
 
-`# apt upgrade `
+`# apt install ufw  `
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp22.png)
+
 
 
 
