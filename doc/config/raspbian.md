@@ -36,7 +36,6 @@
 
 ## INSTALACIÓN DE RASPBERRY Pi OS
 
-
 - Unha vez rematada a grabación, insertaremos a MircoSD na Raspberry PI, conectaremos o cable de rede para que lle asigne unha ip tamén agregaremos o cable HDMI para a saída de vídio e os dispostivos correspondentes para o manexo óptimo (teclado e rato).
 
 
@@ -67,11 +66,15 @@
 
 - Unha vez feito isto logueamonos como root e deixamos actualizando o sistema:
 
+
 `# apt update `
+
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp11.png)
 
+
 `# apt upgrade `
+
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp12.png)
 
@@ -119,6 +122,84 @@
 ![raspi_1](doc/img/imaxes-raspbian/rasp16.png)
 
 
+## SECURIZACIÓN DO SISTEMA RASPBERRY PI OS
+
+
+- Para facer que a Raspberry Pi sexa máis segura, cambiaremos o usuario, xa que todas as Raspberry veñen co nome
+do usuraio predeterminado **pi**, realizando isto conseguirase que a nosa Raspberry sexa menos vulnerable a ataques.
+
+- Engadiremos o usuario co seguinte comando:
+
+`# adduser raspiad`
+
+![raspi_1](doc/img/imaxes-raspbian/rasp18.png)
+
+
+- Engadimos o usarios anteriormente creado a todos os grupos do sistema.
+
+
+`# usermod -a -G adm,dialout,cdrom,sudo,audio,video,plugdev,games,users,input,netdev,gpio,i2c,spi raspiad`
+
+
+- Comprobamos que se agregou correctamente nos ficheiros /etc/passwd e /etc/groups.
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp19.png)
+
+
+- Unha vez comprobado o anterior, cerraremos sesión co usuario **pi** e iniciaremos co usuario novo creado **raspiad**.
+
+`# su - raspiad `
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp20.png)
+
+
+- Para eliminar o usuario **pi** primeiro teremos que eliminar todos os procesos que estean vinculados con este usuario.
+
+`# sudo pkill -eu pi `
+
+
+- A continuación eliminaremos o usuario:
+
+
+`# sudo deluser --remove-home pi`
+
+
+- Comprobamos que xa non hai resto do usuario pi no noso sistema.
+
+
+`# cat /etc/passwd | grep ^pi `
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp21.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- A securización nos sistemas é algo primordial para evitar riscos que poidan facer peligrar a estabilidade da rede e do noso equipo.
+
+- Instalaremos e configuraremos un cortafogos, en este caso UFW, sen un cortafogos activo, a nosa Raspberry Pi está exposta a recibir posibles 
+ataques dende Internet (ou incluso dende outro ordenadores da rede local). O cortafogos permitenos vixiar os portos de comunicacións e controlar
+todo o que entra na nosa máquina dende o exterior e tamén todo o que sae de ela hacia o exterior. En este caso elixo UFW, porque é máis fácil de configurar, de aí o seu nome "**uncomplicated firewall**".
+
+
+`# apt upgrade `
 
 
 
