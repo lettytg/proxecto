@@ -79,7 +79,7 @@
 ![raspi_1](doc/img/imaxes-raspbian/rasp12.png)
 
 
-- Vamos a cambiar o idioma que por defecto ven en Inglés. Para iso iremos a **Preferencias > Configuración Raspberry Pi > Localización**
+- Vamos a cambiar o idioma que por defecto ven en Inglés. Para iso iremos a **Preferencias > Configuración Raspberry Pi > Localización**.
 
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp17.png)
@@ -96,7 +96,7 @@
 ![raspi_1](doc/img/imaxes-raspbian/rasp13.png)
 
 
-- Para crear unha conexión iremos a Arquivo > Nova conexión:
+- Para crear unha conexión iremos a **Arquivo > Nova conexión**:
 
 ` VNC SERVER: A ip da Raspberry Pi `
 
@@ -211,7 +211,7 @@ autorizado aos servidores SSH son moi frecuentes. Vemos a continuación algúns 
 servidor SSH esté máis seguro.
 
 
-- O primeiro que imos facer é entrar no ficheiro de configuración para realizar os cambios;
+- O primeiro que imos facer é entrar no ficheiro de configuración para realizar os cambios.
 
 
 `# sudo nano /etc/ssh/sshd_config  `
