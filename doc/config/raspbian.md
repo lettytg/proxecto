@@ -33,10 +33,22 @@
 ![raspi_1](doc/img/imaxes-raspbian/rasp5.png)
 
 
-- Unha vez rematada a grabación, insertaremos a MircoSD na Raspberry PI e mostraranos a seguinte pantalla:
+
+## INSTALACIÓN DE RASPBERRY Pi OS
+
+
+- Unha vez rematada a grabación, insertaremos a MircoSD na Raspberry PI, conectaremos o cable de rede para que lle asigne unha ip tamén agregaremos o cable HDMI para a saída de vídio e os dispostivos correspondentes para o manexo óptimo (teclado e rato).
 
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp6.png)
+
+
+- Unha vez manexado o sistema, abriremos unha consola para ver que ip se lle asignou:
+
+`# ip a`
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp7.png)
 
 
 
