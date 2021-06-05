@@ -203,5 +203,49 @@ todo o que entra na nosa máquina dende o exterior e tamén todo o que sae de el
 ![raspi_1](doc/img/imaxes-raspbian/rasp24.png)
 
 
+## ASEGURAR O SERVIDOR SSH.
+
+
+- Se accedemo a Raspberry mediante SSH a través de Internet, deberíanos asegurar o servidor, xa que os intentos de acceso non 
+autorizado aos servidores SSH son moi frecuentes. Vemos a continuación algúns parámetros que podemos modificar ou Engadiremos
+para que o noso servidor SSH esté máis seguro.
+
+
+- O primeiro que imos facer é entrar no ficheiro de configuración para realizar os cambios;
+
+
+`# sudo nano /etc/ssh/sshd_config  `
+
+
+- Unha das primeiras opcións que nos atopamos é a que indica o porto de acceso ao servidor, que por defecto é 22. Se o cambiamos por 3426,
+dificultaremos que intenten acceder a nosa máquina.
+
+
+`# Port 3426  `
+
+
+- Outra opción que podemos modificar é a que indica a cantidade de minutros que a pantalla de **login** estará dispoñible para que o usuarios
+se identifiquen. Pasado ese tempo, se non nos identificamos, a conexión cerrarase.
+
+
+`# LoginGraceTime 1m `
+
+
+- Para dificultar os ataques de forza bruta. A primeira opción indica o número máximo de erros permitidos a facer **login**. Se o 
+sobrepasamos ese número, mostrarasenos unha mensaxe de erro e haberá que volver a empezar de novo. A segunda opción refirese ao número máximo
+de conexións simultáneas por IP que permite o servidor.
+
+
+`# MaxAuthTries 3 `
+
+`# MaxSessions 3 `
+
+
+- Tamén aseguraremonos de que non se acepten contrasinais vaciós ou en branco.
+
+
+`# PasswordAuthentication yes `
+
+`# PermitEmptyPasswords no `
 
 
