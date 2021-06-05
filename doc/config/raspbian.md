@@ -76,7 +76,7 @@
 ![raspi_1](doc/img/imaxes-raspbian/rasp12.png)
 
 
-## INSTALACIÓN DO VNC NO EQUIPO DE TRABALLO.
+### INSTALACIÓN DO VNC NO EQUIPO DE TRABALLO.
 
 
 - Descargamos o VNC dende a súa [páxina oficial](https://www.realvnc.com/es/connect/download/viewer/).
