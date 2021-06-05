@@ -1,7 +1,7 @@
 #	INSTALACIÓN E CONFIGURACIÓN BÁSICA DE RASPBERRY PI OS
 
 
-## AGREGACIÓN DA IMAXE RASPBIAN NA MICROSD A TRAVÉS DE RASPBERRY PI IMAGER
+## AGREGACIÓN DA IMAXE RASPBIAN NA MICROSD A TRAVÉS DE RASPBERRY PI IMAGER.
 
 - Para poder utilizar este sistema operativo necesitaremos agregar a imaxe nunha MicroSD, que será incorporada na Raspberry Pi para iso descargaremola dende a súa [páxina oficial](https://www.raspberrypi.org/software/). O software que se vai utilizar chámase Raspberry Pi Imager.
 
@@ -74,6 +74,42 @@
 `# apt upgrade `
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp12.png)
+
+
+## INSTALACIÓN DO VNC NO EQUIPO DE TRABALLO.
+
+
+- Descargamos o VNC dende a súa [páxina oficial](https://www.realvnc.com/es/connect/download/viewer/).
+
+- Unha vez descargado e instalado, abrimos o aplicativo.
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp13.png)
+
+
+- Para crear unha conexión iremos a Arquivo > Nova conexión:
+
+`# VNC SERVER: A ip da Raspberry Pi `
+
+`# NOME: O nome co que queremos que se garde a conexión `
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp14.png)
+
+
+- Seleccionamos aceptar e sairanos unha ventá que nos solicitará o nome do usuario e o contrasinal para autenticarnos na Raspberry Pi.
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp15.png)
+
+
+- Unha vez agregado, comprobamos que efectivamente nos conectamos remotamente dende o noso equipo de traballo a Raspberry Pi.
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp16.png)
+
+
+
 
 
 
