@@ -187,7 +187,20 @@ todo o que entra na nosa máquina dende o exterior e tamén todo o que sae de el
 ![raspi_1](doc/img/imaxes-raspbian/rasp22.png)
 
 
+- Engadimos a seguinte regra, para abrir o porto 3426 para o servizo SSH.
 
+- Activamos e verificamos o estado do cortafogos.
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp23.png)
+
+
+- Engadimos tamén a seguinte regra, para abrir o servizo en este caso non empregaremos porto senon o propio nome.
+
+- Comprobamos o estado.
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp24.png)
 
 
 
