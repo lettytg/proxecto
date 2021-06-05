@@ -45,12 +45,30 @@
 
 - Unha vez manexado o sistema, abriremos unha consola para ver que ip se lle asignou:
 
-`# ip a`
-
-En este caso: 192.168.1.37/24
+`# ip a` (En este caso: 192.168.1.37/24)
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp7.png)
 
+
+- O seguinte paso será habilitar os servizos SSH e VNC. Para iso, iremos a **Preferencias > Configuración Raspberry Pi**. Isto permitiranos conectarnos remotamente dende o noso equipo de traballo.
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp8.png)
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp9.png)
+
+
+- Agora veremos que na parte superior da barra encontraremos unha icona de cor azul indicando que o VNC está activado.
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp10.png)
+
+
+- Unha vez feito isto deixaremos actualizando a Raspberry Pi:
+
+
+![raspi_1](doc/img/imaxes-raspbian/rasp11.png)
 
 
 
