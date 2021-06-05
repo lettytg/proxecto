@@ -100,6 +100,7 @@
 - Seleccionamos aceptar e sairanos unha ventá que nos solicitará o nome do usuario e o contrasinal para autenticarnos na Raspberry Pi.
 
 ` NOME DO USUARIO: Pi `
+
 ` CONTRASINAL: raspberryletty `
 
 
