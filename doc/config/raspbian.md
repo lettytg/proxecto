@@ -47,6 +47,7 @@
 
 `# ip a`
 
+En este caso: 192.168.1.37/24
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp7.png)
 
