@@ -141,5 +141,52 @@
 `# systemctl enable zabbix-server zabbix-agent apache2`
 
 
+![raspi_1](doc/img/imaxes-zabbix/zabbix13.png)
+
+
+- Agora procedemos a acceder a Zabbix no seguinte enlace: http://ip/zabbix/setup.php.
+
+
+![raspi_1](doc/img/imaxes-zabbix/zabbix14.png)
+
+
+
+- Verificamos que os requisitos de Zabbix se cumpriron correctamente.
+
+
+![raspi_1](doc/img/imaxes-zabbix/zabbix15.png)
+
+
+- Ingresamos a información de inicio de sesión de MySQL requirida para conectarse a base de datos de Zabbix.
+
+
+![raspi_1](doc/img/imaxes-zabbix/zabbix16.png)
+
+
+- Dámoslle a seguinte.
+
+
+![raspi_1](doc/img/imaxes-zabbix/zabbix17.png)
+
+
+- Configuramos a zona horaria e o tema de Zabbix.
+
+
+![raspi_1](doc/img/imaxes-zabbix/zabbix18.png)
+
+
+- Comprobamos que está correctamente a configuración.
+
+
+![raspi_1](doc/img/imaxes-zabbix/zabbix19.png)
+
+
+- Unha vez xa configurado.
+
+- O usuario para iniciar en Zabbix é “Admin”, e o seu contrasinal é “zabbix”.
+
+
+![raspi_1](doc/img/imaxes-zabbix/zabbix20.png)
+
 
 
