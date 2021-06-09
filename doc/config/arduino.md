@@ -15,4 +15,9 @@
 ![raspi_1](doc/img/imaxes-arduino/ardu5.png)
 
 
-  
+- Vamos a representar o seguinte esquema, programando que cando eleve unha determinada temperatura se encenda o ventilador.
+
+
+![raspi_1](doc/img/imaxes-arduino/ardu6.png)
+
+
