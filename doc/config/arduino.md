@@ -1,6 +1,6 @@
 # INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO.
 
-- Instalamos o software de Arduino no equipo de traballo dende a [páxina oficial.] (https://www.arduino.cc/en/software/)
+- Instalamos o software de Arduino no equipo de traballo dende a [páxina oficial] (https://www.arduino.cc/en/software/)
 
 
 ![raspi_1](doc/img/imaxes-arduino/ardu1.png)
