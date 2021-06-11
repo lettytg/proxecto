@@ -80,6 +80,10 @@ void loop(){
 ```
 
 
+- Unha vez realizado o código, procedemos a compilar o programa para así entregarlle a información necesaria.
+
+
+
 
 
 
