@@ -21,7 +21,7 @@
 ![raspi_1](doc/img/imaxes-arduino/ardu6.png)
 
 
-- Para representar isto necesitaremos, unha placa Arduino uno, un par de cables e un dispositivo de refrixeración en este caso un ventilador.
+- Para representar isto necesitaremos, unha placa Arduino UNO, un par de cables e un dispositivo de refrixeración en este caso un ventilador.
 
 
 ![raspi_1](doc/img/imaxes-arduino/ardu7.png)
