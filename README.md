@@ -51,7 +51,7 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
     5.2. [INSTALACIÓN E CONFIGURACIÓN DE ZABBIX PARA RASPBERRY PI OS](doc/config/zabbix.md)
     
-    5.3  [CERTIFICADO E ACTIVACIÓN DO SSL](doc/config/certi.md)
+    5.3. [CERTIFICADO E ACTIVACIÓN DO SSL](doc/config/certi.md)
 
     5.4. [APERTURAS DE PORTOS DO ROUTER E FIREWALL](doc/config/portos.md)
 
