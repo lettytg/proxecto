@@ -49,10 +49,10 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
     5.1. [INSTALACIÓN E CONFIGURACIÓN DE RASPBERRY PI OS](doc/config/raspbian.md)
 
-    5.2  [APERTURAS DE PORTOS DO ROUTER E FIREWALL](doc/config/portos.md)
-
-    5.3. [INSTALACIÓN E CONFIGURACIÓN DE ZABBIX PARA RASPBERRY PI OS](doc/config/zabbix.md)
+    5.2. [INSTALACIÓN E CONFIGURACIÓN DE ZABBIX PARA RASPBERRY PI OS](doc/config/zabbix.md)
     
+    5.3.  [APERTURAS DE PORTOS DO ROUTER E FIREWALL](doc/config/portos.md)
+
     5.4. [INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO](doc/config/arduino.md)
 
 
