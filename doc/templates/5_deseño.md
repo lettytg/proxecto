@@ -38,16 +38,15 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
  ![raspi_1](doc/img/imaxes-deseno/dese4.png)
 
 
+A Raspberry Pi consiste nunha placa base que soporta distintos compoñentes de un ordenador como un procesador ARM de hasta 1500 MHz, un chip gráfico e unha memoria RAM de ata 8 GB.
 
-A Raspberry Pi consiste nunha placa base que soporta distintos compoñeentes de un ordenador como un procesador ARM de hasta 1500 MHz, un chip gráfico e unha memoria RAM de ata 8 GB.
+Ademáis, ten moitas máis cualidade por exemplo:
 
-Ademáis, teñen outro moitos compoñentes:
-
-    1. Grazas aos seus portos e entradas, permite conectar dispositivos periféricos. Por exemplo, unha pantalla, un teclado.
+    1. Permite conectar dispositivos periféricos grazas aos seus portos (HDMI, USB). Por exemplo, unha pantalla, teclado, rato.
 
     2. Conten un procesador gráfico VideoCoreIV, co que permite a reproducción de vídeo -incluso en alta definición-.
 
-    3. Permite a conexión a rede a través do porto de Ethernet, y algúns modelos permiten conexión Wifi e Bluetooth.
+    3. Permite a conexión a rede a través do porto de Ethernet, e permite conexión Wifi e Bluetooth.
 Consta de una ranura SD que permite instalar, a través de una tarjeta microSD, sistemas operativos libres.
 
 
