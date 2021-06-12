@@ -88,7 +88,6 @@ Usuario do sistema de monitorización Zabbix:
 
 ![raspi_1](doc/img/imaxes-analise/analise8.png)
 
-
 - CARACTERÍSTICAS:
 
   - Microcontrolador: ATmega328
