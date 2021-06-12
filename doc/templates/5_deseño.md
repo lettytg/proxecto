@@ -27,7 +27,7 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
         - PIN 1: O pin 1 irá conectado a GND (toma terra.)
         - PIN 2: O pin 2 irá conectado a (-3) que será alimentación.
 
-## DIAGRAMA DE COMPOÑENTES DA RASPBERRY PI 3 MODEL B
+## DIAGRAMA DE COMPOÑENTES DA RASPBERRY PI 3 MODEL B.
 
 
  ![raspi_1](doc/img/imaxes-deseno/dese4.png)
@@ -54,6 +54,43 @@ En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto E
 
  ![raspi_1](doc/img/imaxes-deseno/dese6.png)
 
+Existen certos compoñentes esenciais, algúns imprescindibles a hora de implantar o sistema de monitoreo Zabbix.
+Algún de eles son:
+
+** FRONTEND **
+
+    Encargado de:
+        
+        - Interactuar co usuario.
+        - Mostrar os datos mediante:
+            1. Gráficas.
+            2. Mapas.
+            3. Dashboard.
+        - Configurar:
+            1. Dispositivos (HOST): Equipo que se monitorizan.
+            2. Items
+            3. Condicións de erros (triggers), ou problemas.
+            4. Alertas (comunicación ao usuario)
+
+** BACKEND **
+
+    Encargado de:
+        - Almacenaer datos centralizadamente.
+        - Analizar os datos recolectados.
+        - Notificar aos usuarios..
+        - Almacenar os datos na BD.
+        - Administrar a BD.
+        
+ ** BASE DE DATOS **
+
+    Onde gardará:
+        - Configuracións de monitoreo.
+        - Usuarios e permisos.
+        - Elementos de visualización de datos.
+            1. Gráficas, screens, dashboards e mapas.
+        - Datos históricos.
+            1. Datos que se foron recolectando.
+       
 
 ## DIAGRAMA DA REDE 
 
