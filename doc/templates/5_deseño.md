@@ -30,7 +30,7 @@ En este caso programarase para que cando supere determinada temperatura se execu
     ![raspi_1](doc/img/imaxes-deseno/dese3.png)
 
         - PIN 1: O pin 1 irá conectado a GND (toma terra.)
-        - PIN 2: O pin 2 irá conectado a (-3) que será alimentación.
+        - PIN 2: O pin 2 irá conectado a (-3) que será alimentación.- - 
 
 ## RASPBERRY PI 3 MODEL B
 
@@ -40,8 +40,20 @@ En este caso programarase para que cando supere determinada temperatura se execu
 
  ![raspi_1](doc/img/imaxes-deseno/dese4.png)
 
+ A Raspberry PI 
+
 
 En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto Ethernet, unha saída de son e vídio no porto HDMI, a nosa MicroSD de 64GB co sistema Raspbian e finalmente a nosa placa de Arduino mediante o porto USB.
+
+
+
+## DIAGRAMA DE COMPOÑENTES DO SISTEMA ZABBIX 5.4.
+
+
+- Na seguinte imaxe poderemos ver os compoñentes de Zabbix 5.4:
+
+ ![raspi_1](doc/img/imaxes-deseno/dese6.png)
+
 
 
 
