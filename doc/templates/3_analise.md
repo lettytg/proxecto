@@ -91,15 +91,15 @@ Usuario do sistema de monitorización Zabbix:
 
 - CARACTERÍSTICAS:
 
-    - Microcontrolador: ATmega328
-    - Voltaxe Operativo: 5v
-    - Voltaxe de Entrada (Recomendado): 7 – 12 v
-    - Pines de Entradas/Saídas Dixital: 14.
-    - Pines de Entradas Análogas: 6
-    - Memoria Flash: 32 KB (ATmega328).
-    - SRAM: 2 KB (ATmega328)
-    - EEPROM: 1 KB (ATmega328)
-    - Velocidade de Reloxo: 16 MHZ.
+  - Microcontrolador: ATmega328
+  - Voltaxe Operativo: 5v
+  - Voltaxe de Entrada (Recomendado): 7 – 12 v
+  - Pines de Entradas/Saídas Dixital: 14.
+  - Pines de Entradas Análogas: 6
+  - Memoria Flash: 32 KB (ATmega328).
+  - SRAM: 2 KB (ATmega328)
+  - EEPROM: 1 KB (ATmega328)
+  - Velocidade de Reloxo: 16 MHZ.
 
 
 - Imaxes do Arduino UNO que estou a utilizar:
@@ -114,8 +114,16 @@ Usuario do sistema de monitorización Zabbix:
 ### Software
 Analizar as opcións software existentes e xustificar a idoneidade dos compoñentes seleccionados.
 
-## Interfaces externos
-En caso dun proxecto orientado ao desenvolvemento de software, indicar (se procede) como se comunicará o noso software co exterior. É posible que só teña interfaces de usuario, que normalmente son as pantallas. Un exemplo de interface hardware sería un lector de código de barras. As interfaces software son aquelas que se comunican con outro software, como por exemplo un servicio web ao que se conectan aplicacións cliente.
+#### RASPBERRY PI OS 
+
+**Raspberry Pi OS** é unha distribución do sistema operativo GNU/Linux basado en Debian, e polo tanto libre para a SBC Raspberry Pi, orientado a enseñanza de informática. É o sistema operativo por excelencia e case por defecto para a Raspberry Pi. Detrás do sistema están os mesmos creadores da placa de desarrollo. O lanzamento inicial foi en Xuño do 2012, e a última versión estable foi liberada o 3 de Abril.
+Podemos obter a imaxe dende a súa [páxina oficial](https://www.raspberrypi.org/software/operating-systems/)
+
+![raspi_1](doc/img/imaxes-analise/analise9.png)
+
+
+
+
 
 ### Interfaces de usuario
 
