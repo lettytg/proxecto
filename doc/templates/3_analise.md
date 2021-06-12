@@ -9,28 +9,20 @@ O proxecto consiste en crear un invernadoiro automatizado, xa que nos da un nive
 
 O invernadoiro sería controlado por un sistema de monitorización o cal nos avisaría vía e-mail se se xera algunha alerta no noso sistema.
 
-Considero que é un proxecto no cal podemos aproveitar moitas opcións de uso libre que hai no mercado, e decir:
-
-- Software libre, para que todas as persoas que queiran poidan descargar o sistema dependendo das súas necesidades.
-- 
-
-
-
 
 ## Funcionalidades
 
 
 Exemplo:
- 1. Xestión de clientes na BD
- 2. Xestión de pedidos
- ...
- 3. Configuración do directorio activo
- 4. Configuración do DNS
+ 1. A aplicación web debe permitir controlar o acceso ao sistema a través do usuario e password.
+ 2. O sistema debe permitir monitorizar o estado dos sensores, en este caso de temperatura e humidade.
+ 3. O sistema debe permitir visualizar a través da páxina de Zabbix unha gráfica cas diferentes lecturas rexistradas polo sensor de temperatura.
  
 ## Requerimentos non funcionais
 
-
-Requerimentos relativos a rendemento, seguridade, etc. se procede
+  1. O sistema debe procesar os datos en liña e de forma rápida.
+  2. O sistema debe mostrar mensaxes de erros de unha forma clara, que permita ao usuario comprendelos fácilemente.
+  3. O sistema debe ter unha interface amigable para o usuario.
 
 ## Tipos de usuarios
 
@@ -152,14 +144,6 @@ Elixo Zabbix xa que a parte de ser unha ferramenta de software libre, ofrece un 
 
 ![raspi_1](doc/img/imaxes-analise/analise10.jpg)
 
-
-### Interfaces de usuario
-
-
-### Interfaces hardware
-
-
-### Interfaces software
 
 
 ## Análise de riscos e interesados
