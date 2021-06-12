@@ -2,7 +2,7 @@
 
 ## ARDUINO UNO
 
-- Diagrama de Arduino UNO.
+- Diagrama de compoñentes de Arduino UNO.
 
 
 ![raspi_1](doc/img/imaxes-deseno/dese1.png)
@@ -10,7 +10,7 @@
 
 En este digrama podemos contemplar que estarán conectados un sensor de temperatura DHT11 e un ventilador a nosa placa Arduino (que é unha placa con todos os elementos necesarios para conectar periféricos nas entradas e saídas de un microcontrolador, e que pode ser programada tanto en Windows como macOS e GNU/Linux)
 
-- Dispositivos conectados a Arduino UNO:
+- Compoñentes conectados a Arduino UNO:
 
     1. SENSOR DHT11
 
@@ -28,6 +28,29 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
 
         - PIN 1: O pin 1 irá conectado a GND (toma terra.)
         - PIN 2: O pin 2 irá conectado a (-3) que será alimentación.
+
+
+## RASPBERRY PI 3 MODEL B
+
+
+- Diagrama da Raspberry PI.
+
+
+ ![raspi_1](doc/img/imaxes-deseno/dese3.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
