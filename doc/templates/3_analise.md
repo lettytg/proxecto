@@ -86,12 +86,29 @@ Usuario do sistema de monitorización Zabbix:
 
 - **ARDUINO UNO**
 
+![raspi_1](doc/img/imaxes-analise/analise8.png)
 
 
+- CARACTERÍSTICAS:
 
 
+  - Microcontrolador: ATmega328
+  - Voltaxe Operativo: 5v
+  - Voltaxe de Entrada (Recomendado): 7 – 12 v
+  - Pines de Entradas/Saídas Dixital: 14.
+  - Pines de Entradas Análogas: 6
+  - Memoria Flash: 32 KB (ATmega328).
+  - SRAM: 2 KB (ATmega328)
+  - EEPROM: 1 KB (ATmega328)
+  - Velocidade de Reloxo: 16 MHZ.
 
 
+- Imaxes do Arduino que estou a utilizar:
+
+
+![raspi_1](doc/img/imaxes-analise/analise6.png)
+
+![raspi_1](doc/img/imaxes-analise/analise7.png)
 
 
 
