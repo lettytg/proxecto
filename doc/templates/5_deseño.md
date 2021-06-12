@@ -57,7 +57,7 @@ En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto E
 Existen certos compoñentes esenciais, algúns imprescindibles a hora de implantar o sistema de monitoreo Zabbix.
 Algún de eles son:
 
-** FRONTEND** 
+**FRONTEND** 
 
     Encargado de:
         
