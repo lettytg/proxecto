@@ -26,7 +26,7 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
 
     2. VENTILADOR
 
-    ![raspi_1](doc/img/imaxes-deseno/dese2.png)
+    ![raspi_1](doc/img/imaxes-deseno/dese3.png)
 
         - PIN 1: O pin 1 irá conectado a GND (toma terra.)
         - PIN 2: O pin 2 irá conectado a (-3) que será alimentación.
