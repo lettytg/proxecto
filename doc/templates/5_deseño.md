@@ -32,12 +32,13 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
 ## RASPBERRY PI 3 MODEL B
 
 
-- Diagrama da Raspberry PI.
+- Diagrama de compoñentes da Raspberry PI.
 
 
  ![raspi_1](doc/img/imaxes-deseno/dese4.png)
 
 
+En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto Ethernet, unha saída de vídio, a nosa MicroSD de 64GB co sistema Raspbian e finalmente a nosa Raspberry PI mediante o porto USB.
 
 
 
