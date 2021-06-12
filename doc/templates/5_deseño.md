@@ -14,7 +14,7 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
 
     1. SENSOR DHT11
 
-    ![raspi_1](doc/img/imaxes-deseño/deseñ2.png)
+    ![raspi_1](doc/img/imaxes-deseño/deseño2.png)
 
    
 
