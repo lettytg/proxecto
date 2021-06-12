@@ -44,8 +44,17 @@ En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto E
 
 ## DIAGRAMA DA REDE 
 
+- En este diagrama poderemos ver como está montada a rede do proxecto.
+
 
  ![raspi_1](doc/img/imaxes-deseno/dese5.png)
+
+
+Como podemos ver, temos a nosa Raspberry Pi actuando de servidor, xa que en el vai estar o sistema de monitorización, o cal poderemos acceder dende Internet, xa que se fixo un reenvío de portos para acceder a mesma.
+
+Conectado a Raspberry irá o Arduino, o cal estará programada para recoller a información do sensor e mandar instrucción ao ventilador que se ubicarán no invernadorio, que posteriormente monitorizaremos co Zabbix.
+
+
 
 
 
