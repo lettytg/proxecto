@@ -12,7 +12,7 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
 
 - Dispositivos conectados a Arduino UNO:
 
-**    1. SENSOR DHT11**
+    1. SENSOR DHT11
 
         - Sensor digital de temperatura e humidade relativa. Integra un sensor de humidade e un termistor para medir o aire circundante, e os datos mediante o pin de datos.
 
@@ -22,7 +22,7 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
         - PIN 2: O pin 2 irá conectado a entrada 5V da placa Arduino, que será a alimentación do noso sensor.
         - PIN 3: O pin 3 irá conectado a entrada analóxica (A2), que será a entrada de datos.
 
-**    2. VENTILADOR**
+    2. VENTILADOR
 
     ![raspi_1](doc/img/imaxes-deseno/dese3.png)
 
