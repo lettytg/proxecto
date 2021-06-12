@@ -8,7 +8,10 @@
 ![raspi_1](doc/img/imaxes-deseno/dese1.png)
 
 
-En este digrama podemos contemplar que estarán conectados un sensor de temperatura DHT11 e un ventilador a nosa placa Arduino (que é unha placa con todos os elementos necesarios para conectar periféricos nas entradas e saídas de un microcontrolador, e que pode ser programada tanto en Windows como macOS e GNU/Linux)
+En este digrama podemos contemplar que estarán conectados un sensor de temperatura DHT11 e un ventilador a nosa placa Arduino.
+Arduino é unha placa electrónica con un microcontrolador programable. Ademáis de dito chip, tamén inclúe unha serie de pins de saída e entrada que se poden usar programando o chip para que fagan diferentes cousas.
+
+En este caso programarase para que cando supere determinada temperatura se execute o ventilador.
 
 - Compoñentes conectados a Arduino UNO:
 
@@ -18,9 +21,9 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
 
     ![raspi_1](doc/img/imaxes-deseno/dese2.png)
 
-        - PIN 1: O pin 1 irá conectado a entrada GND da placa Arduino, que é a toma terra.
+        - PIN 1: O pin 1 irá conectado a entrada GND da placa Arduino, que é a toma terra (polariza o circuito).
         - PIN 2: O pin 2 irá conectado a entrada 5V da placa Arduino, que será a alimentación do noso sensor.
-        - PIN 3: O pin 3 irá conectado a entrada analóxica (A2), que será a entrada de datos.
+        - PIN 3: O pin 3 irá conectado a entrada analóxica (A2), para a entrada de datos, en este caso o sensor de temperatura dará un valor variable.
 
     2. VENTILADOR
 
