@@ -14,9 +14,10 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
 
     1. SENSOR DHT11
 
+- Sensor digital de temperatura e humidade relativa. Integra un sensor de humidade e un termistor para medir o aire circundante, e mostra os datos mediante o pin de datos.
+
     ![raspi_1](doc/img/imaxes-deseno/dese2.png)
 
-   
         - PIN 1: O pin 1 irá conectado a entrada GND da placa Arduino, que é a toma terra.
         - PIN 2: O pin 2 irá conectado a entrada 5V da placa Arduino, que será a alimentación do noso sensor.
         - PIN 3: O pin 3 irá conectado a entrada analóxica (A2), que será a entrada de datos.
