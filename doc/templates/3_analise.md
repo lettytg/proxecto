@@ -122,7 +122,14 @@ Podemos obter a imaxe dende a súa [páxina oficial](https://www.raspberrypi.org
 ![raspi_1](doc/img/imaxes-analise/analise9.png)
 
 
+#### ZABBIX 5.4
 
+**Zabbix 5.4** é un Sistema de Monitorización de Redes. Está deseñado para monitorizar e rexistrar o estado de varios servizos de rede, servidores e hardware de rede. Usa MySQL, PostgreSQL, SQLite, Oracle ou IBM DB" como base de datos. O seu backend está escrito en C e o frontend web está en PHP. Etos sistemas de monitoreo principalmente usanse para poder visualizar de maneira gráfica e rápida nunha liña de tempo o seu desempeño. Os sistema de monitoreo rexistran diferente información, como límites, parámetros e eventos importnates, utilizando contadores virtuais. De esta maneira podese chegar a ráìdas conclusión que axudan a identificar condicións críticas, moderas ou lixeria que requiren de atención oportuna pola parte da persoas que o están utilizando.
+
+Elixo Zabbix xa que a parte de ser unha ferramenta de software libre, ofrece un gran rendemento para a recopilación de datos e podese escalar a entornos moitp máis grandes.
+
+
+![raspi_1](doc/img/imaxes-analise/analise10.png)
 
 
 ### Interfaces de usuario
