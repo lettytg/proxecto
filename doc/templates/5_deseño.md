@@ -57,7 +57,7 @@ En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto E
 Existen certos compoñentes esenciais, algúns imprescindibles a hora de implantar o sistema de monitoreo Zabbix.
 Algún de eles son:
 
-** FRONTEND **
+** FRONTEND** 
 
     Encargado de:
         
@@ -72,7 +72,7 @@ Algún de eles son:
             3. Condicións de erros (triggers), ou problemas.
             4. Alertas (comunicación ao usuario)
 
-** BACKEND **
+** BACKEND**
 
     Encargado de:
         - Almacenaer datos centralizadamente.
@@ -81,7 +81,7 @@ Algún de eles son:
         - Almacenar os datos na BD.
         - Administrar a BD.
         
- ** BASE DE DATOS **
+ ** BASE DE DATOS**
 
     Onde gardará:
         - Configuracións de monitoreo.
