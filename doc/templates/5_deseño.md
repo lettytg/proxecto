@@ -54,7 +54,7 @@ En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto E
 
  ![raspi_1](doc/img/imaxes-deseno/dese6.png)
 
-Existen certos compoñentes esenciais, algúns imprescindibles a hora de implantar o sistema de monitoreo Zabbix.
+Existen certos compoñentes esenciais, algúns imprescindibles a hora de implantar o sistema de monitorización Zabbix.
 Algún de eles son:
 
 **FRONTEND** 
@@ -103,40 +103,3 @@ Algún de eles son:
 Como podemos ver, temos a nosa Raspberry Pi actuando de servidor, xa que en el vai estar o sistema de monitorización, o cal poderemos acceder dende Internet, xa que se fixo un reenvío de portos para acceder a mesma.
 
 Conectado a Raspberry irá o Arduino, o cal estará programada para recoller a información do sensor e mandar instrucción ao ventilador que se ubicarán no invernadorio, que posteriormente monitorizaremos co Zabbix.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Modelo conceptual do dominio da aplicación e/ou Diagrama de clases [usando UML, ConML, ou linguaxe semellante].
-
-## Casos de uso [descritos en fichas e/ou mediante esquemas; deben incluír os actores (tipos de usuarios) implicados en cada caso de uso].
-
-## Deseño de interface de usuarios [mockups ou diagramas...].
-
-## Diseño de interfaxes software e hardware (se aplica)
-
-## Diagrama de Base de Datos.
-
-## Diagrama de compoñentes software que constitúen o produto e de despregue.
-
-## Diagrama de despregamento
-
-## Outros diagramas, esquemas ou documentacion (seguridade, redundancia, expliacións, configuracións...)
-
