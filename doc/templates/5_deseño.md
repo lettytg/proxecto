@@ -46,8 +46,7 @@ Ademáis, ten moitas máis cualidade por exemplo:
 
     2. Conten un procesador gráfico VideoCoreIV, co que permite a reproducción de vídeo -incluso en alta definición-.
 
-    3. Permite a conexión a rede a través do porto de Ethernet, e permite conexión Wifi e Bluetooth.
-Consta de una ranura SD que permite instalar, a través de una tarjeta microSD, sistemas operativos libres.
+    3. Permite a conexión a rede a través do porto de Ethernet, e permite conexión Wifi e Bluetooth. Consta de una ranura SD que permite instalar, a través de una tarjeta microSD, sistemas operativos libres.
 
 
 En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto Ethernet, unha saída de son e vídio no porto HDMI, a nosa MicroSD de 64GB co sistema Raspbian e finalmente a nosa placa de Arduino mediante o porto USB.
