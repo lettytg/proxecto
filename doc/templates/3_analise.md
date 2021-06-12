@@ -66,21 +66,30 @@ Usuario do sistema de monitorización Zabbix:
   - Power-over-Ethernet (PoE)
 
 
-- Imaxes da 
+- Imaxes da Raspberry PI que estou a utilizar:
+
+  - Parte de arriba da Raspberry:
+
+![raspi_1](doc/img/imaxes-analise/analise2.png)
+
+  - Parte inferior da Raspberry:
+
+![raspi_1](doc/img/imaxes-analise/analise3.png)
+
+  - Parte lateral, onde se encontran os portos USB e o cable de rede conectado ao porto Ethernet.
+
+ ![raspi_1](doc/img/imaxes-analise/analise4.png)
+ 
+  - Parte lateral, onde se encontra o cable de alimentación e a saída de vídeo conectada ao porto HDMI.
+
+![raspi_1](doc/img/imaxes-analise/analise5.png)
+
+- **ARDUINO UNO**
 
 
 
 
 
-
-
-
-
-
-
-
-
-- Arduino UNO
 
 
 
