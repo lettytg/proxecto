@@ -27,10 +27,7 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
         - PIN 1: O pin 1 irá conectado a GND (toma terra.)
         - PIN 2: O pin 2 irá conectado a (-3) que será alimentación.
 
-## RASPBERRY PI 3 MODEL B
-
-
-- Diagrama de compoñentes da Raspberry PI.
+## DIAGRAMA DE COMPOÑENTES DA RASPBERRY PI 3 MODEL B
 
 
  ![raspi_1](doc/img/imaxes-deseno/dese4.png)
