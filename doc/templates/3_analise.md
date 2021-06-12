@@ -1,7 +1,9 @@
 # REQUIRIMENTOS DO SISTEMA
+
 Este documento describe os requirimentos para Invernao especificando que funcionalidade ofrecerá e de que xeito.
 
 ## Descrición Xeral
+
 
 O proxecto consiste en crear un invernadoiro automatizado, xa que nos da un nivel de independencia moi grande, porque poden operar, de forma autónama, sen necesidade da presenza do productor de forma permanente no sitio. Aforrase tempo de traballo, xa que é o encargado de realizar algunhas de esas tarefas que se requiren para o seu bo funcionamento. 
 
@@ -26,9 +28,13 @@ Exemplo:
  4. Configuración do DNS
  
 ## Requerimentos non funcionais
+
+
 Requerimentos relativos a rendemento, seguridade, etc. se procede
 
 ## Tipos de usuarios
+
+
 Tipos de usuario que poderán acceder ó noso sistema. Poderán diferenciarse polos permisos sobre os datos, pantallas que se lles amosan, operacións que poden levar a cabo, etc.
 
 Usuarios do sistema Raspbian:
@@ -43,7 +49,9 @@ Usuario do sistema de monitorización Zabbix:
 
 ## Avaliación da viabilidade técnica do proxecto
 
+
 ### Hardware requerido
+
 
 - **RASPBERRY PI 3B +** 
 
@@ -63,30 +71,41 @@ Usuario do sistema de monitorización Zabbix:
   - Puerto DSI para conectar unHa pantalla táctil.
   - Saída de audio estéreo e vídeo composto.
   - Micro-SD.
-  - Power-over-Ethernet (PoE)
+  - Power-over-Ethernet (PoE).
 
 
 - Imaxes da Raspberry PI que estou a utilizar:
 
+
   - Parte de arriba da Raspberry:
+
 
 ![raspi_1](doc/img/imaxes-analise/analise2.png)
 
+
   - Parte inferior da Raspberry:
+
 
 ![raspi_1](doc/img/imaxes-analise/analise3.png)
 
+
   - Parte lateral, onde se encontran os portos USB e o cable de rede conectado ao porto Ethernet.
+
 
  ![raspi_1](doc/img/imaxes-analise/analise4.png)
  
+
   - Parte lateral, onde se encontra o cable de alimentación e a saída de vídeo conectada ao porto HDMI.
+
 
 ![raspi_1](doc/img/imaxes-analise/analise5.png)
 
+
 - **ARDUINO UNO**
 
+
 ![raspi_1](doc/img/imaxes-analise/analise8.png)
+
 
 - CARACTERÍSTICAS:
 
@@ -111,9 +130,11 @@ Usuario do sistema de monitorización Zabbix:
 
 
 ### Software
+
 Analizar as opcións software existentes e xustificar a idoneidade dos compoñentes seleccionados.
 
 #### RASPBERRY PI OS 
+
 
 **Raspberry Pi OS** é unha distribución do sistema operativo GNU/Linux basado en Debian, e polo tanto libre para a SBC Raspberry Pi, orientado a enseñanza de informática. É o sistema operativo por excelencia e case por defecto para a Raspberry Pi. Detrás do sistema están os mesmos creadores da placa de desarrollo. O lanzamento inicial foi en Xuño do 2012, e a última versión estable foi liberada o 3 de Abril.
 Podemos obter a imaxe dende a súa [páxina oficial](https://www.raspberrypi.org/software/operating-systems/)
@@ -122,6 +143,7 @@ Podemos obter a imaxe dende a súa [páxina oficial](https://www.raspberrypi.org
 
 
 #### ZABBIX 5.4
+
 
 **Zabbix 5.4** é un Sistema de Monitorización de Redes. Está deseñado para monitorizar e rexistrar o estado de varios servizos de rede, servidores e hardware de rede. Usa MySQL, PostgreSQL, SQLite, Oracle ou IBM DB" como base de datos. O seu backend está escrito en C e o frontend web está en PHP. Etos sistemas de monitoreo principalmente usanse para poder visualizar de maneira gráfica e rápida nunha liña de tempo o seu desempeño. Os sistema de monitoreo rexistran diferente información, como límites, parámetros e eventos importnates, utilizando contadores virtuais. De esta maneira podese chegar a ráìdas conclusión que axudan a identificar condicións críticas, moderas ou lixeria que requiren de atención oportuna pola parte da persoas que o están utilizando.
 
