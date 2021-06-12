@@ -102,7 +102,7 @@ Usuario do sistema de monitorización Zabbix:
     - Velocidade de Reloxo: 16 MHZ.
 
 
-- Imaxes do Arduino que estou a utilizar:
+- Imaxes do Arduino UNO que estou a utilizar:
 
 
 ![raspi_1](doc/img/imaxes-analise/analise6.png)
