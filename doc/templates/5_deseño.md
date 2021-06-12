@@ -1,8 +1,6 @@
 # FASE DE DESEÑO
 
-## ARDUINO UNO
-
-- Diagrama de compoñentes de Arduino UNO.
+## DIAGRAMA DE COMPOÑENTE DE ARDUINO UNO.
 
 
 ![raspi_1](doc/img/imaxes-deseno/dese1.png)
@@ -58,8 +56,6 @@ En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto E
 - Na seguinte imaxe poderemos ver os compoñentes de Zabbix 5.4:
 
  ![raspi_1](doc/img/imaxes-deseno/dese6.png)
-
-
 
 
 ## DIAGRAMA DA REDE 
