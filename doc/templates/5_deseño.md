@@ -42,6 +42,11 @@ En este caso, na nosa Raspberry Pi, teremos conectado o cable de rede ao porto E
 
 
 
+## DIAGRAMA DE rede
+
+ ![raspi_1](doc/img/imaxes-deseno/dese5.png)
+
+
 
 
 
