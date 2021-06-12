@@ -129,7 +129,7 @@ Podemos obter a imaxe dende a súa [páxina oficial](https://www.raspberrypi.org
 Elixo Zabbix xa que a parte de ser unha ferramenta de software libre, ofrece un gran rendemento para a recopilación de datos e podese escalar a entornos moitp máis grandes.
 
 
-![raspi_1](doc/img/imaxes-analise/analise10.png)
+![raspi_1](doc/img/imaxes-analise/analise10.jpg)
 
 
 ### Interfaces de usuario
