@@ -14,7 +14,7 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
 
     1. SENSOR DHT11
 
-- Sensor digital de temperatura e humidade relativa. Integra un sensor de humidade e un termistor para medir o aire circundante, e mostra os datos mediante o pin de datos.
+    - Sensor digital de temperatura e humidade relativa. Integra un sensor de humidade e un termistor para medir o aire circundante, e os datos mediante o pin de datos.
 
     ![raspi_1](doc/img/imaxes-deseno/dese2.png)
 
