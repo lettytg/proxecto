@@ -108,8 +108,8 @@ Usuario do sistema de monitorización Zabbix:
 
 ![raspi_1](doc/img/imaxes-analise/analise6.png)
 
-![raspi_1](doc/img/imaxes-analise/analise7.png)
 
+![raspi_1](doc/img/imaxes-analise/analise7.png)
 
 
 ### Software
