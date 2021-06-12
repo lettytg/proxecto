@@ -1,13 +1,22 @@
 # REQUIRIMENTOS DO SISTEMA
-Este documento describe os requirimentos para \[nome do proxecto\] especificando que funcionalidade ofrecerá e de que xeito.
+Este documento describe os requirimentos para Invernao especificando que funcionalidade ofrecerá e de que xeito.
 
 ## Descrición Xeral
 
-Descrición Xeral do proxecto
+O proxecto consiste en crear un invernadoiro automatizado, xa que nos da un nivel de independencia moi grande, porque poden operar, de forma autónama, sen necesidade da presenza do productor de forma permanente no sitio. Aforrase tempo de traballo, xa que é o encargado de realizar algunhas de esas tarefas que se requiren para o seu bo funcionamento. 
+
+O invernadoiro sería controlado por un sistema de monitorización o cal nos avisaría vía e-mail se se xera algunha alerta no noso sistema.
+
+Considero que é un proxecto no cal podemos aproveitar moitas opcións de uso libre que hai no mercado, e decir:
+
+- Software libre, para que todas as persoas que queiran poidan descargar o sistema dependendo das súas necesidades.
+- 
+
+
+
 
 ## Funcionalidades
-Describir que servizos ou operacións se van poder realizar por medio do noso proxecto, indicando que actores interveñen en cada caso.
-Enumeralas (cunha breve descripción se aplica), de maneira que na fase de deseño poidamos definir o diagrama ou configuración correspondente a cada funcionalidade.
+
 
 Exemplo:
  1. Xestión de clientes na BD
@@ -22,15 +31,60 @@ Requerimentos relativos a rendemento, seguridade, etc. se procede
 ## Tipos de usuarios
 Tipos de usuario que poderán acceder ó noso sistema. Poderán diferenciarse polos permisos sobre os datos, pantallas que se lles amosan, operacións que poden levar a cabo, etc.
 
-Exemplo:
-  * Usuario xerente, que terá acceso a ...
-  * Usuario técnico, que poderá...
+Usuarios do sistema Raspbian:
 
+- **Usuario administrador:** responsable da administración e configuración de todo o sistema, é o único que ten permisos para engadir novos usuarios, instalar aplicacións, etc.
+- **Usuario estándar:** só poderá acceder a certas carpetas e arquivos.
+
+Usuario do sistema de monitorización Zabbix:
+
+- **Usuario administrador:** é o usuario que ten todos os permisos da aplicación.
+- **Usuario estándar:** é o usuario que tería permisos para a visualización do contido da aplicación pero non para a súa moddificación, é dicir, sería o usuario que tería o cliente para ter acceso e poder visualizar a monitorización.
 
 ## Avaliación da viabilidade técnica do proxecto
 
 ### Hardware requerido
-Analizar as opcións hardware existentes e xustificar a idoneidade dos compoñentes seleccionados.
+
+- **RASPBERRY PI 3B +** 
+
+
+![raspi_1](doc/img/imaxes-analise/analise1.png)
+
+
+- CARACTERÍSTICAS:
+
+  - CPU + GPU: Broadcom BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.4GHz.
+  - RAM: 1GB LPDDR2 SDRAM.
+  - Wi-Fi + Bluetooth.
+  - Ethernet: Gigabit Ethernet sobre USB 2.0 (300 Mbps).
+  - HDMI.
+  - 4 portos USB 2.0.
+  - Puerto CSI para conectar unHa cámara.
+  - Puerto DSI para conectar unHa pantalla táctil.
+  - Saída de audio estéreo e vídeo composto.
+  - Micro-SD.
+  - Power-over-Ethernet (PoE)
+
+
+- Imaxes da 
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Arduino UNO
+
+
+
+
 
 ### Software
 Analizar as opcións software existentes e xustificar a idoneidade dos compoñentes seleccionados.
