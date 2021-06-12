@@ -22,8 +22,6 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
         - PIN 2: O pin 2 irá conectado a entrada 5V da placa Arduino, que será a alimentación do noso sensor.
         - PIN 3: O pin 3 irá conectado a entrada analóxica (A2), que será a entrada de datos.
 
-
-
     2. VENTILADOR
 
     ![raspi_1](doc/img/imaxes-deseno/dese3.png)
