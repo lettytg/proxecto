@@ -20,7 +20,7 @@
 - Aquí abriremos os portos correspondentes para HTTP (80) e HTTPS (443). 
 
 
-![raspi_1](doc/img/imaxes-portos/porto11.png)
+![raspi_1](doc/img/imaxes-portos/porto1.png)
 
 
 - Comprobamos que podemos acceder co nome do dominio por HTTPS.
