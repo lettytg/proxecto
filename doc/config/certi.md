@@ -1,7 +1,7 @@
 ## CERTIFICADO E ACTIVACIÓN DO SSL.
 
 
-- Vamos a nosa máquina e habilitamos o módulo rewrite e SSL de Apache2.
+- Vamos a nosa máquina e habilitamos o módulo **rewrite** e **SSL** de Apache2.
 
 
 ![raspi_1](doc/img/imaxes-certi/certi1.png)
