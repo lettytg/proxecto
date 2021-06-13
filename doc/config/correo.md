@@ -11,11 +11,11 @@
 
 ```
 # nano /etc/ssmtp/ssmtp.conf
-# root=alertaszabixx@gmail.com
+# root=alertasinvernao@gmail.com
 # mailhub=smtp.gmail.com
 # FromLineOverride=YES
-# AuthUser=alertaszabixx@gmail.com
-# AuthPass=Abc123..
+# AuthUser=alertasinvernao@gmail.com
+# AuthPass=+Qwerty-
 # UseTLS=Yes
 # AuthMethod=LOGIN
 ```
