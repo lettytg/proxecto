@@ -50,12 +50,14 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
     5.1. [INSTALACIÓN E CONFIGURACIÓN DE RASPBERRY PI OS](doc/config/raspbian.md)
 
     5.2. [INSTALACIÓN E CONFIGURACIÓN DE ZABBIX PARA RASPBERRY PI OS](doc/config/zabbix.md)
-    
-    5.3. [CERTIFICADO E ACTIVACIÓN DO SSL](doc/config/certi.md)
 
-    5.4. [APERTURAS DE PORTOS DO ROUTER E FIREWALL](doc/config/portos.md)
+    5.3. [NOTIFICACIÓNS DE ALERTAS POR CORREO](doc/config/correo.md)
 
-    5.5. [INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO](doc/config/arduino.md)
+    5.4. [CERTIFICADO E ACTIVACIÓN DO SSL](doc/config/certi.md)
+
+    5.5. [APERTURAS DE PORTOS DO ROUTER E FIREWALL](doc/config/portos.md)
+
+    5.6. [INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO](doc/config/arduino.md)
 
 
 ## Guía de contribución
