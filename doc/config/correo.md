@@ -19,3 +19,4 @@
 # UseTLS=Yes
 # AuthMethod=LOGIN
 ```
+![raspi_1](doc/img/imaxes-correo/correo2.PNG)
