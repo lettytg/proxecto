@@ -36,5 +36,9 @@
 ![raspi_1](doc/img/imaxes-certi/certi10.png)
 
 
+- Agora ca conta poderemos administrar o noso domínio. Engadiremos a IP pública do noso router para redireccionar o tráfico.
+
+![raspi_1](doc/img/imaxes-certi/certi11.png)
+
 
 
