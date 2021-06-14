@@ -1,10 +1,14 @@
 # ESTUDO DE NECESIDADES E MODELO DE NEGOCIO
 
+
 ## Xustificación das necesidades 
+
 
 A meirande parte dos agricultores en España, descoñecen dos sistemas automatizados nos invernadoiros e non posúen os recursos económicos para inverter en eles, debido ao alto custe de estes. Ao desenrrolar un sistema de invernadoiro automatizado que utilice diferentes técnicas de rego e refrixeración, lograrase baixar os custes de estás sistemas e facilitar o acceso por parte dos agricultores a estas tecnoloxías, que lle permitirán aumentar a rentabilidade das colleitas e suplir as necesidades do mercado nacional.
 
+
 3.	Cal é o obxectivo xeral que persegue o proxecto?
+
 
 O obxectivo é construír un sistema no cal poidamos cultivar calquera tipo de pranta, en calquera momento do ano, baixo calquera circunstancia, en calquera zona. E así ter unha fonte "ilimitada" de alimentos que se poidan cultivar en calquera espazo pechado.
 
@@ -13,27 +17,9 @@ Para conseguir este obxectivo vamos automatizar o proceso de cultivo. Dende fai 
 Proponse crear un sistema que terá unha serie de sensores e actuadores para que poida facerse efectivo a manipulación do medio ambiente da pranta para o seu cultivo e finalmente o seu consumo.
 
 
-4.	Responde a estas preguntas concretas:
-
-    4.1.Como se pode responder a esta necesidade? 
-    
-    4.2. Que pode facerse para cambiar este estado de cousas? 
-    
-    4.3. Como podemos contribuír desde a nosa situación a que o problema se resolva? 
-    
-    4.4. Que medios, actividades e recursos van poñer en xogo? 
-    
-    4.5. Que actividades se van realizar? 
-    
-    4.6. Que metodoloxía se vai empregar para levar a cabo o traballo?
-    
-    4.7. Que persoas serían precisas para realizar o proxecto con éxito? 
-    
-    4.8 Con canto tempo se conta? 
-    
-    4.9 Canto tempo se necesita?
-
 ## Posibilidades de comercialización (viabilidade, competidores…).
+
+
 1.	Viabilidade.
 
 Este proxecto contempla a posibilidade de comercializar o sistema de control de un invernadoiro automatizado. 
@@ -43,14 +29,18 @@ Tras varias entrevistas a agricultores veciños meus, chegamos a conclusión de 
         
 2.	Competencia.
 
-    2.1. Identificación da competencia, as súas características e a súa posición no mercado.
-    
-    2.2. Existencia de productos/servizos substitutivos.
+En canto a competencia, no sector dos invernadoiros automatizados actualmente existen máis competidores que antigamente xa que se comeza a imprantar este tipo de metodoloxías. Pero é un sector onde non hai moita competencia.
 
 ## Ideas para a súa comercialización.
 1.	Promoción.
 
-    1.1.	Técnicas elixidas (redes sociais, plataformas multimedia, páxina web, posicionamento web SEO, patrocinios, participación en eventos, prácticas de responsabilidade social corporativa, outras).
+    1.1. Crear unha web.
+    
+        O primeiro paso para promocionar un negocio é a creación de unha páxina web. Ter unha páxina web permitirá multiplicar o alcance e chegar a un público obxetivo moito máis amplo
+   
+    1.2. Redes sociais.
+
+        Na actualidade, a meirande parte da poboación utiliza as redes sociais a diario, por esta razón, as redes sociais convertironse nun gran escaparate para dar a coñecer os pequenos e grandes negocios.
     
     1.2.	Xustifica a elección.
     
