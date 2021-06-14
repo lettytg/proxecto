@@ -2,22 +2,15 @@
 
 ## Xustificación das necesidades 
 
-Segundo se recolle no documento de análise "A sociedade da información nas empresas de Galiza" na súa edición do 2016, realizado por OSIMGA (Observatorio da Sociedade da información e a Modernización de Galiza), o 100% da empresas galegas, independentemente do seu tamaño, dispoñen de equipos, o cal non é nada sorprendente na época actual. No mesmo estudo tamén se recolle que polo menos o 70% das empresas galegas dispoñen de servidores, porcentaxe que se incrementa ata o 95% no caso de empresas de ata 9 empregados e para as de máis de 10 empregados alcanza o 100%.
-
-Para manter todas as estruturas, é importante ter un software de monitorización sobre todos os servidores, para como mínimo saber si están funcionando correctamente os servizos despregados en eles. Para isto son fundamentais ferramentas como Zabbix que permiten automatizar este proceso. 
-
-Outra das cousas importantes que nunca se teñen en conta é a refrixeración das salas de servidores, nas cales como mínimo deberían haber sensores de temperatura e humidade, para poder controlar o clima das salas para minimizar os riscos que poidan acontecer nun futuro.
-
-
-Con todo isto o obxectivo é desenrolar unha rede 
-
+A meirande parte dos agricultores en España, descoñecen dos sistemas automatizados nos invernadoiros e non posúen os recursos económicos para inverter en eles, debido ao alto custe de estes. Ao desenrrolar un sistema de invernadoiro automatizado que utilice diferentes técnicas de rego e refrixeración, lograrase baixar os custes de estás sistemas e facilitar o acceso por parte dos agricultores a estas tecnoloxías, que lle permitirán aumentar a rentabilidade das colleitas e suplir as necesidades do mercado nacional.
 
 3.	Cal é o obxectivo xeral que persegue o proxecto?
 
-O obxectivo é deresenrolar 
+O obxectivo é construír un sistema no cal poidamos cultivar calquera tipo de pranta, en calquera momento do ano, baixo calquera circunstancia, en calquera zona. E así ter unha fonte "ilimitada" de alimentos que se poidan cultivar en calquera espazo pechado.
 
+Para conseguir este obxectivo vamos automatizar o proceso de cultivo. Dende fai varios anos, a partir da primeira década do século XXI, foise desenrolando tecnoloxías que nos posibilitan cultivar de maneira "artificial". Partindo da hipótese de que unha pranta só necesita que teña unha cantidade de luz, temperatura e humidade adecuada para o seu cultivo. Vaise proceder a construír un invernadoiro no cal cultivemos prantas de tomate controlando a temperatura e humidade ambiental das mesmas.
 
-
+Proponse crear un sistema que terá unha serie de sensores e actuadores para que poida facerse efectivo a manipulación do medio ambiente da pranta para o seu cultivo e finalmente o seu consumo.
 
 
 4.	Responde a estas preguntas concretas:
@@ -43,17 +36,9 @@ O obxectivo é deresenrolar
 ## Posibilidades de comercialización (viabilidade, competidores…).
 1.	Viabilidade.
 
-    1.1	Viabilidade técnica.
-    
-        1.1.a) Será posible dispoñer dos recursos humanos e medios de produción necesarios (materias primas, maquinaria, instalacións…)?
-        
-        1.1.b) Existe algún impedimento técnico que dificulte o proceso produtivo?
-        
-    1.2	Viabilidade económica
-    
-        1.2.a) Os beneficios do proyecto son superiores aos costes?
-        
-        1.2.b) As perdas poden cubrirse vía financiamento (por parte da administración pública, con subvencións, etc)?
+Este proxecto contempla a posibilidade de comercializar o sistema de control de un invernadoiro automatizado. 
+
+Tras varias entrevistas a agricultores veciños meus, chegamos a conclusión de hai dous puntos en común que teñen todos, que é o elevado custe que supón a instalación (aínda sabendo de que é a mellor opción a largo prazo, xa que os beneficios do sistema sempre van ser inferiores ao custe) e por outra parte a falta de confianza no sistema.
 
         
 2.	Competencia.
