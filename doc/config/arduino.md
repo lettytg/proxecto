@@ -79,6 +79,11 @@ void loop(){
   
 ```
 
+- Para que isto funcione, necesitamos unhas librerías do propio sensor, en este caso descarguei a librería da seguinte [páxina](https://codeload.github.com/adafruit/Adafruit_Sensor/zip/refs/heads/master)
+
+
+![raspi_1](doc/img/imaxes-arduino/ardu12.png)
+
 
 - Unha vez realizado o código, procedemos a compilar o programa para así entregarlle a información necesaria.
 
@@ -94,7 +99,7 @@ void loop(){
 - Unha vez subido comprobaremos no propio terminal da aplicación que está a funcionar o sensor e o ventilador.
 
 
-![raspi_1](doc/img/imaxes-arduino/ardux.png)
+![raspi_1](doc/img/imaxes-arduino/ardux.PNG)
 
 
 
