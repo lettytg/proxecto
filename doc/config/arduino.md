@@ -83,6 +83,18 @@ void loop(){
 - Unha vez realizado o código, procedemos a compilar o programa para así entregarlle a información necesaria.
 
 
+![raspi_1](doc/img/imaxes-arduino/ardu10.png)
+
+
+- Seleccionamos "**Subir**" e comprobamos que se está subindo o código a placa.
+
+![raspi_1](doc/img/imaxes-arduino/ardu11.png)
+
+
+- Unha vez subido comprobaremos no propio terminal da aplicación que está a funcionar o sensor e o ventilador.
+
+
+![raspi_1](doc/img/imaxes-arduino/ardux.png)
 
 
 
