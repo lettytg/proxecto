@@ -59,7 +59,7 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
     5.6. [INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO](doc/config/arduino.md)
 
-            5.6.1. [INSTALACIÓN DO IDE ARDUINO EN RASPBERRY PI](doc/config/arduino1.md)
+    5.7  [INSTALACIÓN DO IDE ARDUINO EN RASPBERRY PI](doc/config/arduino1.md)
 
 ## Guía de contribución
 
