@@ -20,3 +20,14 @@
 ![raspi_1](doc/img/imaxes-monitorizacion/moni01.png)
 
 
+- Agora procederemos a ir ao noso Zabbix, no panel do Menú, seleccionaremos **Configuration** - **Templates**.
+- Un **Template** ou **Plantilla** é un conxunto de (items, triggers, graphs, screens..) preparados para ser aplicados a un ou varios hosts. O traballo das plantillas é acelerar a imprantación das tarefas de supervisión no host, tamén para facilitar a aplicación de cambios masicos nas tarefas de supervisión.
+
+- En este caso chamaremos a plantilla **aplicacionMonitorizar** e agregaremos os grupos aos que vai pertencer dita plantlla.
+
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni1.png)
+
+
+
+
