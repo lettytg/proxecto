@@ -37,10 +37,19 @@
 
 - Como vamos a monitorizar un txt onde estarán gardados os valores, elexiremos como chave **log** e agregaremos a ruta onde está gardado o txt.
 
-- No apartado de tipo de información, elexiremso text, xa que leva números e letras.
+- No apartado de tipo de información, elexiremos text, xa que leva números e letras.
 
 
 ![raspi_1](doc/img/imaxes-monitorizacion/moni2.PNG)
+
+
+- Agora comprobaremos no **Monitoring** - *Latest Data*. Aquí poderemos ver todos os valores recopilados dos distintos elementos.
+
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni3.PNG)
+
+
+
 
 
 
