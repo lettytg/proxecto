@@ -67,12 +67,21 @@
 ![raspi_1](doc/img/imaxes-monitorizacion/moni6.PNG)
 
 
-- Crearemos o usuario, agregando ao grupo **Guest** que sería invitado.
+- Crearemos o usuario, agregando ao grupo **Guest** que sería o invitado.
 
     - **Nome:** invernadoiro.
     - **Contrasinal:** abc123..
 
-
 ![raspi_1](doc/img/imaxes-monitorizacion/moni7.PNG)
+
+
+- Agora procederemos a crear un rol, no cal elexiremos os privilexios que vai ter o usuario "invernadoiro". Para crear o rol seleccionaremos **Administration** - **User roles**
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni8.PNG)
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni9.PNG)
+
+
+
 
 
