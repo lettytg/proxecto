@@ -57,5 +57,14 @@
 ![raspi_1](doc/img/imaxes-monitorizacion/moni5.PNG)
 
 
+##	CREACIÓN DO USUARIO ESTÁNDAR INVERNADOIRO.
+
+
+- Como ben sabemos, o usuario do invernadoiro necesitará un usuario para poder acceder ao Zabbix e ver os resultados da monitorizacion do sensor. O usuario ten que ser un usuario estándar, e dicir, un usuario que teña uns permisos determinados, para que non poida modificar ningunha configuración.  
+- Para levar isto acabo, crearemos un usuario no apartado **Administration** - **Users**. 
+
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni6.PNG)
+
 
 
