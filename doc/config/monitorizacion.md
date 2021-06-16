@@ -43,7 +43,7 @@
 ![raspi_1](doc/img/imaxes-monitorizacion/moni2.PNG)
 
 
-- Agora comprobaremos no **Monitoring** - *Latest Data*. Aquí poderemos ver todos os valores recopilados dos distintos elementos.
+- Agora comprobaremos no **Monitoring** - **Latest Data**. Aquí poderemos ver todos os valores recopilados dos distintos elementos.
 
 
 ![raspi_1](doc/img/imaxes-monitorizacion/moni3.PNG)
@@ -88,4 +88,8 @@
 ![raspi_1](doc/img/imaxes-monitorizacion/moni10.PNG)
 
 
+- Agora entraremos co usuario invernadoio e comprobaremos que funciona correctamente e que ten os permisos necesarios.
+
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni11.PNG)
 
