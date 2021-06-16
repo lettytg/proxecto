@@ -26,4 +26,18 @@ while True:
 ![raspi_1](doc/img/imaxes-extraer/script1.png)
 
 
+- Unha vez realiado o script, executaremolo e comprobaremos que nos mostra por pantalla os valores recollidos de Arduino.
+
+
+![raspi_1](doc/img/imaxes-extraer/script2.png)
+
+
+- Agora comprobaremos que se está creando o .txt na ruta correspondente e que dentro podemos visualizar os valores que se están a recoller.
+
+
+![raspi_1](doc/img/imaxes-extraer/scrip3.png)
+
+
+
+
 
