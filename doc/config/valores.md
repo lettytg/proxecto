@@ -11,7 +11,7 @@
 import serial
 
 serial_port = '/dev/ttyACM0'; //Establecese o porto da conexión.
-baud_rate = 9600; /Establece a velocidad de datos en bits por segundo (baudios) para a transmisión de datos en serial.
+baud_rate = 9600; //Establece a velocidade de datos en bits por segundo (baudios) para a transmisión de datos en serial.
 write_to_file_path = "/home/raspiad/Documentos/info3.txt"; //Crea o arquivo info3.txt
 
 output_file = open(write_to_file_path, "w+"); 
@@ -22,6 +22,8 @@ while True:
     print(line);
     output_file.write(line);
 ```
+
+![raspi_1](doc/img/imaxes-extraer/script1.png)
 
 
 
