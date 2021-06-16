@@ -61,6 +61,9 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
     5.7. [INSTALACIÓN DO IDE ARDUINO EN RASPBERRY PI](doc/config/arduino1.md)
 
+    5.8. [EXTRACIÓN DOS VALORES DO SENSOR A RASPBERRY PI](doc/config/valores.md)
+
+
 ## Guía de contribución
 
 > *TODO*: Tratándose de un proyecto de software libre, es muy importante que expongas cómo se puede contribuir con tu proyecto. Algunos ejemplos de esto son realizar nuevas funcionalidades, corrección y/u optimización del código, realización de test automatizados, nuevas interfaces de integración, desarrollo de plugins, etc. etc. Sé lo más conciso que puedas.
