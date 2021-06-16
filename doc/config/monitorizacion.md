@@ -48,6 +48,9 @@
 
 ![raspi_1](doc/img/imaxes-monitorizacion/moni3.PNG)
 
+![raspi_1](doc/img/imaxes-monitorizacion/moni4.PNG)
+
+
 
 
 
