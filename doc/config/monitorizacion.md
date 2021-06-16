@@ -10,6 +10,6 @@
 
 `ServerActive=127.0.0.1`
 
-`Hostname=Stout`
+`Hostname= Zabbix server`
 
 ![raspi_1](doc/img/imaxes-monitorizacion/moni0.png)
