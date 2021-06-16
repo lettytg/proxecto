@@ -67,4 +67,12 @@
 ![raspi_1](doc/img/imaxes-monitorizacion/moni6.PNG)
 
 
+- Crearemos o usuario, agregando ao grupo **Guest** que sería invitado.
+
+    - **Nome:** invernadoiro.
+    - **Contrasinal:** abc123..
+
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni7.PNG)
+
 
