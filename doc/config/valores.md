@@ -35,7 +35,7 @@ while True:
 - Agora comprobaremos que se está creando o .txt na ruta correspondente e que dentro podemos visualizar os valores que se están a recoller.
 
 
-![raspi_1](doc/img/imaxes-extraer/scrip3.png)
+![raspi_1](doc/img/imaxes-extraer/script3.png)
 
 
 
