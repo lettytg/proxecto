@@ -28,6 +28,8 @@
 
 ![raspi_1](doc/img/imaxes-monitorizacion/moni1.PNG)
 
+![raspi_1](doc/img/imaxes-monitorizacion/moni1.1.PNG)
 
 
+- Unha vez creada a plantilla, procederemos a crear o seu **Item**, que son  
 
