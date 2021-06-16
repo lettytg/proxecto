@@ -51,7 +51,10 @@
 ![raspi_1](doc/img/imaxes-monitorizacion/moni4.PNG)
 
 
+- Unha vez feito isto, modificaremos o **Dashboard** para que nos apareza a táboa cos valores monitorizados.
 
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni5.PNG)
 
 
 
