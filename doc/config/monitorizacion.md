@@ -17,7 +17,7 @@
 
 - Unha vez configurado o anterior, procederemos a reiniciar o servizo do axente de Zabbix e a comprobar o seu estado.
 
-![raspi_1](doc/img/imaxes-monitorizacion/moni01.png)
+![raspi_1](doc/img/imaxes-monitorizacion/moni01.PNG)
 
 
 - Agora procederemos a ir ao noso Zabbix, no panel do Menú, seleccionaremos **Configuration** - **Templates**.
@@ -26,7 +26,7 @@
 - En este caso chamaremos a plantilla **aplicacionMonitorizar** e agregaremos os grupos aos que vai pertencer dita plantlla.
 
 
-![raspi_1](doc/img/imaxes-monitorizacion/moni1.png)
+![raspi_1](doc/img/imaxes-monitorizacion/moni1.PNG)
 
 
 
