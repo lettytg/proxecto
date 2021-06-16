@@ -1,4 +1,4 @@
-# EXTRACIÓN DOS VALORES DO SENSOR A RASPBERRY PI
+# EXTRACIÓN DOS VALORES DO SENSOR A RASPBERRY PI.
 
 
 - Agora vamos a proceder a extraer os valores do noso sensor que está conectado no Arduino. Para iso necesitaremos crear un script no cal recolla a información do porto onde está conectado o Arduino, é dicir, **/dev/ttyACM0**. 
