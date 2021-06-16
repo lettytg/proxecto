@@ -13,3 +13,10 @@
 `Hostname= Zabbix server`
 
 ![raspi_1](doc/img/imaxes-monitorizacion/moni0.png)
+
+
+- Unha vez configurado o anterior, procederemos a reiniciar o servizo do axente de Zabbix e a comprobar o seu estado.
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni01.png)
+
+
