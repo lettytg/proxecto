@@ -31,5 +31,16 @@
 ![raspi_1](doc/img/imaxes-monitorizacion/moni1.1.PNG)
 
 
-- Unha vez creada a plantilla, procederemos a crear o seu **Item**, que son  
+- Unha vez creada a plantilla, procederemos a crear o **Item**, que é un elemento que nos permite adquirir datos do sistema. Cada elemento ven co seu propio conxunto de chaves e parámetros requeridos.
+
+- En este caso o tipo será Zabbix agent (active), xa que o axente debe tomar o rol de activo, é dicir, vai tomar a iniciativa de comunicar o valor. Para saber que o que ten que comunicar, previamente lle preguntará ao servidor e identificará co seu hostname.
+
+- Como vamos a monitorizar un txt onde estarán gardados os valores, elexiremos como chave **log** e agregaremos a ruta onde está gardado o txt.
+
+- No apartado de tipo de información, elexiremso text, xa que leva números e letras.
+
+
+![raspi_1](doc/img/imaxes-monitorizacion/moni2.PNG)
+
+
 
