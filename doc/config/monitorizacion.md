@@ -7,7 +7,9 @@
 - Comprobamos no ficheiro de configuración do axente de Zabbix, que están as seguintes opcións ben configuradas.
 
 `Server=127.0.0.1` 
+
 `ServerActive=127.0.0.1`
+
 `Hostname=Stout`
 
 ![raspi_1](doc/img/imaxes-monitorizacion/moni0.png)
