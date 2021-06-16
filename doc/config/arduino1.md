@@ -1,4 +1,4 @@
-#	INSTALACIÓN DO IDE ARDUINO EN RASPBERRY PI
+#	INSTALACIÓN DO IDE ARDUINO EN RASPBERRY PI E IMPORTACIÓN DOS VALORES DO SENSOR.
 
 - Para usar a interface en serie de Raspberry Pi, debe estar habilitada no menú de configuración. Para iso, introducimos o seguinte comando.
 
