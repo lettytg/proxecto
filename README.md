@@ -63,7 +63,7 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
     5.8. [EXTRACIÓN DOS VALORES DO SENSOR A RASPBERRY PI](doc/config/valores.md)
 
-    5.9. [MONITORIZACIÓN DO SENSOR CON ZABBIX](doc/config/monitorización.md)
+    5.9. [MONITORIZACIÓN DO SENSOR DE TEMPERATURA CON ZABBIX](doc/config/monitorización.md)
 
 ## Guía de contribución
 
