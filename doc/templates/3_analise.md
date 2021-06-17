@@ -134,7 +134,7 @@ Analizar as opcións software existentes e xustificar a idoneidade dos compoñen
 
 
 **Raspberry Pi OS** é unha distribución do sistema operativo GNU/Linux basado en Debian, e polo tanto libre para a SBC Raspberry Pi, orientado a enseñanza de informática. É o sistema operativo por excelencia e case por defecto para a Raspberry Pi. Detrás do sistema están os mesmos creadores da placa de desarrollo. O lanzamento inicial foi en Xuño do 2012, e a última versión estable foi liberada o 3 de Abril.
-Podemos obter a imaxe dende a súa [páxina oficial](https://www.raspberrypi.org/software/operating-systems/)
+Podemos obter a imaxe dende a súa [páxina oficial.](https://www.raspberrypi.org/software/operating-systems/)
 
 ![raspi_1](doc/img/imaxes-analise/analise9.png)
 
