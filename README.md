@@ -78,7 +78,7 @@ Todas as ferramentas software que son empregadas en este proxecto son de softwar
 - [VNC Viewer](https://www.realvnc.com/es/connect/download/viewer/)
 - [Zabbix 5.4](https://www.zabbix.com/la/download)
 
-##**Documentación**
+### **Documentación**
 
 - [Documentación oficial Zabbix 5.4](https://www.zabbix.com/documentation/current/)
 - [Documentación oficial Raspberry PI](https://www.raspberrypi.org/documentation configuration/)
