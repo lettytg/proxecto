@@ -67,8 +67,10 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
 ## Guía de contribución
 
-> *TODO*: Tratándose de un proyecto de software libre, es muy importante que expongas cómo se puede contribuir con tu proyecto. Algunos ejemplos de esto son realizar nuevas funcionalidades, corrección y/u optimización del código, realización de test automatizados, nuevas interfaces de integración, desarrollo de plugins, etc. etc. Sé lo más conciso que puedas.
+Todas as ferramentas software que son empregadas en este proxecto son de software libre e de código aberto, con isto teremos a liberdade de executar os programas cando desexemos, con calquera proposito, a liberdade de estudar como é o funcionamento de cada un de eles 
 
-## Enlaces
+## Enlaces 
 
-> *TODO*: Enlaces externos y descripciones de estos enlaces que creas conveniente indicar aquí. Generalmente ya van a estar integrados con tu documentación, pero si requieres realizar un listado de ellos, este es el lugar.
+** Enlaces de descarga
+
+
