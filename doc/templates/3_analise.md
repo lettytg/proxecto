@@ -147,10 +147,25 @@ Elixo Zabbix xa que a parte de ser unha ferramenta de software libre, ofrece un 
 
 
 ## Análise de riscos e interesados
-Determinar todas aquelas persoas, entidades ou cousas que poden ter un impacto (positivo ou negativo) no proxecto ou na idea de negocio, e indicar as medidas a levar a cabo para tratar de potenciar os impactos positivos e evitar ou mitigar os posibles impactos negativos.
+
+
+
+
 
 ## Actividades
+
 Definir, de forma xeral, os pasos que se han seguir para levar a cabo o proxecto, de forma que na fase de planificación nos sirvan como referencia para detallar as tarefas, recursos e temporalización necesaria para cada fase.
+
+1. Análise do entorno no que imos imprantar o sistema.
+2. Recollida de información sobre o sistema que queremos despregar.
+3. Escolla dos produtos que imos a empregar.
+4. Instalación e configuración de Raspberry Pi OS.
+5. Securización da Raspberry Pi.
+6. Instalación e configuración de Arduino UNO.
+7. Instalación e configuración de Zabbix 5.4.
+8. Monitorización do sensor de temperatura en Zabbix.
+9. Nome do dominio e reenvío de portos.
+
 
 ## Melloras futuras
 
