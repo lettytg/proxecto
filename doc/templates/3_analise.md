@@ -163,7 +163,14 @@ Aquí poderemos ver a posición de cada interesado:
 
 ![raspi_1](doc/img/imaxes-analise/riscos2.png)
 
+No riscos, poderemonos encontrar cos seguintes exemplos:
 
+- **Riscos financieiros:** Impago de clientes.
+- **Riscos lexislativos:** Cambios na normativa que poidan afectar negativamente na situación da empresa, en moitos aspectos (complexidade dos procesos, aspectos medioambientais, impostos, etc).
+- **Riscos comerciais:** Complexidade do proceso de decisión do cliente, estratexia.
+- **Riscos humanos:** Adecuación das persoas cas tarefas, complementariedade, rotación do persoal, enfermidades, etc.
+- **Riscos de competencia:** Facilidade para copiar o concepto, dificultarde para diferenciarse, etc.
+- **Riscos organizativos:** Falta de definición das tarefas, dificultade en cumprir os prazos.
 
 
 ## Actividades
