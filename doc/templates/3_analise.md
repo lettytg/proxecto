@@ -152,6 +152,13 @@ Elixo Zabbix xa que a parte de ser unha ferramenta de software libre, ofrece un 
 
 ## Análise de riscos e interesados
 
+Na xestión de interesados, o risco é respresentado por todas as persoas ou grupos de persoas interesadas no proxecto ou os que se ven afectados por el. 
+
+Poderemos ver un esquema que nos mostra os grupos de interese máis habituais:
+
+
+![raspi_1](doc/img/imaxes-analise/riscos1.png)
+
 
 
 
