@@ -16,7 +16,7 @@ O invernadoiro sería controlado por un sistema de monitorización o cal nos avi
 Exemplo:
  1. A aplicación web debe permitir controlar o acceso ao sistema a través do usuario e password.
  2. O sistema debe permitir monitorizar o estado dos sensores, en este caso de temperatura e humidade.
- 3. O sistema debe permitir visualizar a través da páxina de Zabbix unha gráfica cas diferentes lecturas rexistradas polo sensor de temperatura.
+ 3. O sistema debe permitir visualizar a través da páxina de Zabbix un historial cas diferentes lecturas rexistradas polo sensor de temperatura.
  
 ## Requerimentos non funcionais
 
