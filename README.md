@@ -71,6 +71,26 @@ Todas as ferramentas software que son empregadas en este proxecto son de softwar
 
 ## Enlaces 
 
-** Enlaces de descarga
+### **Enlaces de descarga**
+
+- [Raspberry Pi OS](https://www.raspberrypi.org/software/)
+- [Arduino IDE 1.8.14 ](https://www.arduino.cc/en/software)
+- [VNC Viewer](https://www.realvnc.com/es/connect/download/viewer/)
+- [Zabbix 5.4](https://www.zabbix.com/la/download)
+
+##**Documentación**
+
+- [Documentación oficial Zabbix 5.4](https://www.zabbix.com/documentation/current/)
+- [Documentación oficial Raspberry PI](https://www.raspberrypi.org/documentation configuration/)
+- [Guía de referencia de Arduino UNO](https://www.arduino.cc/reference/es/)
+- [Guía sobre librerías en Arduino](https://aprendiendoarduino.wordpress.com/2016/11/16/librerias-arduino-2/)
+- [Guía sobre sensor DHT11](https://rduinostar.com/documentacion/datasheets/dht11-overview/)
 
 
+### **Axudas**
+
+- https://www.zabbix.com/la/integrations/arduino
+- https://blog.330ohms.com/2020/07/07/como-conectar-arduino-y-raspberry-pi-por-comunicacion-serial/ 
+- https://programarfacil.com/blog/arduino-blog/sensor-dht11-temperatura-humedad-arduino/
+- http://www.netpingdevice.com/blog/monitoring-mikroklimata-i-datchikov-tipa-suhogo-kontakta-pri-pomoschi-sms-uvedomlenij-otpravlyaemyh-v-zabbix
+- https://blog.carreralinux.com.ar/2017/11/usar-ufw-en-linux-administrar-firewall/
