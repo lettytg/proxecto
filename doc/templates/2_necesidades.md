@@ -34,20 +34,21 @@ En canto a competencia, no sector dos invernadoiros automatizados actualmente ex
 ## Ideas para a súa comercialización.
 1.	Promoción.
 
-    1.1. Crear unha web.
+    1.1. Páxina web.
     
-        O primeiro paso para promocionar un negocio é a creación de unha páxina web. Ter unha páxina web permitirá multiplicar o alcance e chegar a un público obxetivo moito máis amplo
-   
+        O primeiro paso para promocionar un negocio é a creación de unha páxina web. Ter unha páxina web permitirá multiplicar o alcance e chegar a un público obxetivo moito máis amplo. En ela incluiremos información de contacto para instalacións e consultas.
+
     1.2. Redes sociais.
 
         Na actualidade, a meirande parte da poboación utiliza as redes sociais a diario, por esta razón, as redes sociais convertironse nun gran escaparate para dar a coñecer os pequenos e grandes negocios.
     
-    1.2.	Xustifica a elección.
+    1.3. Propaganda en medios tradicionais especializados.
+
+        Presenza en boletins científicos, especializados no Agro a través de publicidade impresa.
     
 2.	Modelo de negocio.
 
-    2.1.Modelo elixido (Modelo de pago / Freemium (é de balde pero as funcionalidades extras son de pago) / In house (desenvolvementos a medida para contornos empresariais / De subscrición / Por publicidade / Outros)
-    
+O modelo de negocio 
     2.2. Xustifica a elección.
 
 # Webgrafía
