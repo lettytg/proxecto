@@ -5,7 +5,6 @@
 ## Guía de planificación do proxecto
 
 ### Metodoloxía
-Indica a metodoloxía que se utilizará para a elaboración do proxecto: ciclo en cascada, incremental, espiral... Xustifica a elección.
 
 ### Fases planificadas
 
