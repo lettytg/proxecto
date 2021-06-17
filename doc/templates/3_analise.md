@@ -153,4 +153,8 @@ Determinar todas aquelas persoas, entidades ou cousas que poden ter un impacto (
 Definir, de forma xeral, os pasos que se han seguir para levar a cabo o proxecto, de forma que na fase de planificación nos sirvan como referencia para detallar as tarefas, recursos e temporalización necesaria para cada fase.
 
 ## Melloras futuras
-É posible que o noso proxecto se centre en resolver un problema concreto que se poderá ampliar no futuro con novas funcionalidades, novas interfaces, etc.
+
+Este proxecto está centrado en cubrir unha necesidade que a meirande parte da xente que se adica a isto non se pode permitir. Nun futuro gustaríame engadir máis funcionalidades, como por exemplo:
+
+- Integrar un sistema automático de rego, para complementar o sistema de refrixeración que temos (ventilador)
+- Creación de unha aplicación móbil que xestione de forma manual todos os compoñentes do invernadoiro.
