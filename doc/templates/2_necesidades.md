@@ -48,7 +48,8 @@ En canto a competencia, no sector dos invernadoiros automatizados actualmente ex
     
 2.	Modelo de negocio.
 
-O modelo de negocio 
+A idea de negocio é unha empresa da área de informática que se centre na instalación de invernadoiros automatizados.
+
     2.2. Xustifica a elección.
 
 # Webgrafía
