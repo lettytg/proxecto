@@ -159,6 +159,9 @@ Poderemos ver un esquema que nos mostra os grupos de interese máis habituais:
 
 ![raspi_1](doc/img/imaxes-analise/riscos1.png)
 
+Aquí poderemos ver a posición de cada interesado:
+
+![raspi_1](doc/img/imaxes-analise/riscos2.png)
 
 
 
