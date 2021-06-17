@@ -38,6 +38,8 @@ Usuario do sistema de monitorización Zabbix:
 
 - **Usuario administrador:** é o usuario que ten todos os permisos da aplicación.
 - **Usuario estándar:** é o usuario que tería permisos para a visualización do contido da aplicación pero non para a súa moddificación, é dicir, sería o usuario que tería o cliente para ter acceso e poder visualizar a monitorización.
+  - Usuario: invernadoiro.
+  - Contrasinal: abc123..
 
 ## Avaliación da viabilidade técnica do proxecto
 
