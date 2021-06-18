@@ -132,110 +132,110 @@ Os pasos para constituir a SLU son os mesmos que na SL pero con lixeiras variaci
 
 - **Pasos para constituir unha Sociedade Limitada Unipersonal**:
 
-**1. Rexistrar o nome da SLU**.
+    **1. Rexistrar o nome da SLU**.
 
-A denominación social da empresa é un dos papeis que che exesirá o notario para constituir a sociedade.
+    A denominación social da empresa é un dos papeis que che exesirá o notario para constituir a sociedade.
 
-A denominación social teñen eficacia xurídica e é por tanto o nome "oficial" da sociedade. Este nome non ten por qué ser o mesmo que o nome comercial.
+    A denominación social teñen eficacia xurídica e é por tanto o nome "oficial" da sociedade. Este nome non ten por qué ser o mesmo que o nome comercial.
 
-**2. Determinar o Capital Social**.
+    **2. Determinar o Capital Social**.
 
-O capital social é a aportación que deberás facer para constituir a sociedade.
+    O capital social é a aportación que deberás facer para constituir a sociedade.
 
-    - Canto capital social aporto?
+        - Canto capital social aporto?
 
-        A aportación debe ter un valor mínimo de 3000 euros para poder crear a SLU, pero se temos unha estrutura de gastos importante recomendase por máis de 3000 euros para iniciar a actividade.
+            A aportación debe ter un valor mínimo de 3000 euros para poder crear a SLU, pero se temos unha estrutura de gastos importante recomendase por máis de 3000 euros para iniciar a actividade.
 
-        Hai que ter en conta que os 3000 euros van a ser os que soporten os gastos ata que consigamos as ventas suficientes para cubrilos.
-
-
-**3. Definir o Obxeto Social**.
-
-O obxeto social é a definición da actividade que vai a desenrrolar na SLU. O obxeto social deberemos indicalo posteriormente nos estatutos sociais.
-
-Ao redactar a actividade que vamos a desenrrolar teremos que indicar tamén o CNAE (Código Nacional de Actividades Económicas) ao que fai referencia a túa actividade.
+            Hai que ter en conta que os 3000 euros van a ser os que soporten os gastos ata que consigamos as ventas suficientes para cubrilos.
 
 
-**4. Establecer o Dominio Social**.
+    **3. Definir o Obxeto Social**.
 
-O dominio social que vaiamos a indicar para a SLU pode ser calquera de estos dous:
+    O obxeto social é a definición da actividade que vai a desenrrolar na SLU. O obxeto social deberemos indicalo posteriormente nos estatutos sociais.
 
-    - O lugar onde se desenrrole a actividade principal.
-    - O lugar onde se desenrrole a dirección e administración da mesma.
-
-**5. Establece os estatutos sociais**.
-
-O estatuto social comprende as normas que van a regular o funcionamento da sociedade.
-
-Deberemos indicar o estatuto os seguintes puntos:
-
-    - O obxeto social.
-    - A denominación da sociedade.
-    - O dominio social.
-    - O capital social.
-    - A capacidade, dereitos e deberes dos socios (en este caso só eu).
-    - A regulación do órgano de administración.
-    - A relación da sociedade cos socios (en este caso eu)
-
-**6. Abrir unha conta bancaria e conseguir o certificado das aportacións**.
-
-Elixir un banco, abrir unha conta e ingresar o capital social.
-
-O certificado de aportacións darao o banco no que ingreses o capital social.
-
-Pode ser que o banco tarde en emitir este certificado se o diñeiro se ingresa mediante transferencia.
+    Ao redactar a actividade que vamos a desenrrolar teremos que indicar tamén o CNAE (Código Nacional de Actividades Económicas) ao que fai referencia a túa actividade.
 
 
-**7. Solicitar o CIF Provisional do SLU**.
+    **4. Establecer o Dominio Social**.
 
-De ese paso encargarase no 99% das veces o notario, pero é importante que se sepa da súa existencia para fixarte se o teu notario o solicitou ou non.
+    O dominio social que vaiamos a indicar para a SLU pode ser calquera de estos dous:
 
-O CIF Provisional é o número de identificación que se ofrecerá e que poderás convertir nun CIF Definitivo unha vez teñamos a escritura rexistrada no Rexistro Mercantil.
+        - O lugar onde se desenrrole a actividade principal.
+        - O lugar onde se desenrrole a dirección e administración da mesma.
 
-**8. Realizar a escritura da constitución**.
+    **5. Establece os estatutos sociais**.
 
-En este paso só temos que preocuparnos de ir ao notario e él realizará o trámite.
+    O estatuto social comprende as normas que van a regular o funcionamento da sociedade.
 
-Os documentos que serán necesarios para construir a SLU son:
+    Deberemos indicar o estatuto os seguintes puntos:
 
-    - Estatuos sociais.
-    - Certificado do Rexistro Mercantil de reserva de denominación social.
-    - Certificado de aportacións do Banco.
+        - O obxeto social.
+        - A denominación da sociedade.
+        - O dominio social.
+        - O capital social.
+        - A capacidade, dereitos e deberes dos socios (en este caso só eu).
+        - A regulación do órgano de administración.
+        - A relación da sociedade cos socios (en este caso eu)
 
-**9. Inscribir a escritura no Rexistro Mercantil**.
+    **6. Abrir unha conta bancaria e conseguir o certificado das aportacións**.
 
-Na maioría dos casos tamén encargarase o notario de remitir telemáticamente a escritura ao Rexistro Mercantil. Para validar a escritura o rexistro deberá marcala con un selo. Por tatno, aseguremonos de que a escritura que se garde sexa a que teña selo xa que as outras non teñen efectos.
+    Elixir un banco, abrir unha conta e ingresar o capital social.
 
-**10. Obter a acta de titularidade real da SLU**.
+    O certificado de aportacións darao o banco no que ingreses o capital social.
 
-A acta vaina preparar tamén o notario e tratase simplemente de un documento no que o notario certifica que ti eres a persoa física propietaria da sociedade.
+    Pode ser que o banco tarde en emitir este certificado se o diñeiro se ingresa mediante transferencia.
 
-**11. Conseguir a firma dixital**.
 
-A firma dixital vaise necesitar para realizar calquera trámite ante Hacienda, a Seguridade Social ou calquera tipo de organismo público.
+    **7. Solicitar o CIF Provisional do SLU**.
 
-**12. Comunicar a alta e solicitar o CIF Definitivo a Hacienda**.
+    De ese paso encargarase no 99% das veces o notario, pero é importante que se sepa da súa existencia para fixarte se o teu notario o solicitou ou non.
 
-Terase que cubrir os seguintes datos, segundo as necesidades da túa empresa:
+    O CIF Provisional é o número de identificación que se ofrecerá e que poderás convertir nun CIF Definitivo unha vez teñamos a escritura rexistrada no Rexistro Mercantil.
 
-1. O dominicilio fiscal.
-2. Os datos identificativo.
-3. Os datos relativos a actividades económicas e locais.
-4. Os datos relativos ao IVA.
-5. Os datos relativos ao IRPF.
-6. Os datos relativos ao IS.
-7. Os datos relativos a retencións e ingresos a conta.
-8. Solicitude de alta no Rexistro de Operadores Intracomunitarios (se procede).
+    **8. Realizar a escritura da constitución**.
 
-- **Impostos de unha Sociedade Limitada Unipersoal**:
+    En este paso só temos que preocuparnos de ir ao notario e él realizará o trámite.
 
-Os impostos que presenta cada Sociedade non depende do tipo de Sociedade senon do tipo de actividade a que se dedique, ademáis de se teñen traballadores ou non ao seu cargo.
+    Os documentos que serán necesarios para construir a SLU son:
 
-Se a actividade que desenrrola a empresa se pode considerar como unha actividade común, seguramente os impostos que terás que ter en conta son:
+        - Estatuos sociais.
+        - Certificado do Rexistro Mercantil de reserva de denominación social.
+        - Certificado de aportacións do Banco.
 
-    - Imposto de Sociedades (obrigatorio).
-    - IVA (se a actividade leva IVA).
-    - Retención de traballadores (se hai persoal contratado)
+    **9. Inscribir a escritura no Rexistro Mercantil**.
+
+    Na maioría dos casos tamén encargarase o notario de remitir telemáticamente a escritura ao Rexistro Mercantil. Para validar a escritura o rexistro deberá marcala con un selo. Por tatno, aseguremonos de que a escritura que se garde sexa a que teña selo xa que as outras non teñen efectos.
+
+    **10. Obter a acta de titularidade real da SLU**.
+
+    A acta vaina preparar tamén o notario e tratase simplemente de un documento no que o notario certifica que ti eres a persoa física propietaria da sociedade.
+
+    **11. Conseguir a firma dixital**.
+
+    A firma dixital vaise necesitar para realizar calquera trámite ante Hacienda, a Seguridade Social ou calquera tipo de organismo público.
+
+    **12. Comunicar a alta e solicitar o CIF Definitivo a Hacienda**.
+
+    Terase que cubrir os seguintes datos, segundo as necesidades da túa empresa:
+
+    1. O dominicilio fiscal.
+    2. Os datos identificativo.
+    3. Os datos relativos a actividades económicas e locais.
+    4. Os datos relativos ao IVA.
+    5. Os datos relativos ao IRPF.
+    6. Os datos relativos ao IS.
+    7. Os datos relativos a retencións e ingresos a conta.
+    8. Solicitude de alta no Rexistro de Operadores Intracomunitarios (se procede).
+
+    - **Impostos de unha Sociedade Limitada Unipersoal**:
+
+    Os impostos que presenta cada Sociedade non depende do tipo de Sociedade senon do tipo de actividade a que se dedique, ademáis de se teñen traballadores ou non ao seu cargo.
+
+    Se a actividade que desenrrola a empresa se pode considerar como unha actividade común, seguramente os impostos que terás que ter en conta son:
+
+        - Imposto de Sociedades (obrigatorio).
+        - IVA (se a actividade leva IVA).
+        - Retención de traballadores (se hai persoal contratado)
 
 ### Orzamento por partidas de inversión / gasto:
 
