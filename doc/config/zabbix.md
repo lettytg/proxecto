@@ -138,6 +138,7 @@
 - Iniciamos os procesos do axente e do servidor de Zabbix.
 
 `# systemctl restart zabbix-server zabbix-agent apache2`
+
 `# systemctl enable zabbix-server zabbix-agent apache2`
 
 
