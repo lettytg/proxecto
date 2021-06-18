@@ -78,7 +78,7 @@ Todas as ferramentas software que son empregadas en este proxecto son de softwar
 
 ### **Enlace ao vídeo de demostración**
 
--[Vídeo de demostración do proxecto](https://www.youtube.com/watch?v=kGAcwiCoPGI)
+- [Vídeo de demostración do proxecto](https://www.youtube.com/watch?v=kGAcwiCoPGI)
 
 ### **Documentación**
 
