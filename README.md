@@ -51,19 +51,17 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
     5.2. [INSTALACIÓN E CONFIGURACIÓN DE ZABBIX PARA RASPBERRY PI OS](doc/config/zabbix.md)
 
-    5.3. [NOTIFICACIÓNS DE ALERTAS POR CORREO](doc/config/correo.md)
+    5.3. [CERTIFICADO E ACTIVACIÓN DO SSL](doc/config/certi.md)
 
-    5.4. [CERTIFICADO E ACTIVACIÓN DO SSL](doc/config/certi.md)
+    5.4. [APERTURAS DE PORTOS DO ROUTER E FIREWALL](doc/config/portos.md)
 
-    5.5. [APERTURAS DE PORTOS DO ROUTER E FIREWALL](doc/config/portos.md)
+    5.5. [INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO](doc/config/arduino.md)
 
-    5.6. [INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO](doc/config/arduino.md)
+    5.6. [INSTALACIÓN DO IDE ARDUINO EN RASPBERRY PI](doc/config/arduino1.md)
 
-    5.7. [INSTALACIÓN DO IDE ARDUINO EN RASPBERRY PI](doc/config/arduino1.md)
+    5.7. [EXTRACIÓN DOS VALORES DO SENSOR A RASPBERRY PI](doc/config/valores.md)
 
-    5.8. [EXTRACIÓN DOS VALORES DO SENSOR A RASPBERRY PI](doc/config/valores.md)
-
-    5.9. [MONITORIZACIÓN DO SENSOR DE TEMPERATURA CON ZABBIX](doc/config/monitorizacion.md)
+    5.8. [MONITORIZACIÓN DO SENSOR DE TEMPERATURA CON ZABBIX](doc/config/monitorizacion.md)
 
 ## Guía de contribución
 
