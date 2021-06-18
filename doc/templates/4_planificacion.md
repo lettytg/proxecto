@@ -11,22 +11,18 @@
 Descríbense as fases en que se divide o proxecto e as tarefas que se han levar a cabo en cada unha destas fases.
 Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se son os mesmos, de maneira máis xeral.
 
-#### Fase 1: Estudo de necesidades e modelo de negocio
+#### Fase 1: Análise do entorno de imprantación.
 
-##### Tarefa 1: xxxxxxxx
+#####  Tarefa 1: Desprazamentos as dependencias do cliente. 
 
-Descrición: 
+- Desprazaremonos ao lugar onde se ubica o invernadoiro do cliente.
+- Recursos necesarios: Medio de transporte.
 
-Recursos hardware/software: 
+##### Tarefa 2: Análise do marco de traballo.
 
-Recursos humanos: Persoas que se encargarán de realizar esta tarefa
+- Avaliaremos as necesidades do cliente. Unha vez recopilada a información procedemos á planificación do proxecto.
 
-Duración: 
-
-#### Tarefa 2
-...
-
-#### Fase 2: xxxxx
+#### Fase 2: Configuración do núcleo do proxecto.
 
 ##### Tarefa 1: xxxxxxxx
 
