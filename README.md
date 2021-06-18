@@ -98,4 +98,4 @@ Todas as ferramentas software que son empregadas en este proxecto son de softwar
 - https://blog.carreralinux.com.ar/2017/11/usar-ufw-en-linux-administrar-firewall/
 - https://github.com/zbx-sadman/zabbuino/blob/master/zabbuino.ino
 - https://github.com/zaphodus/ESP8266ZabbixSender
-- 
+- https://www.zonasystem.com/2019/07/fail2ban-idps-control-de-ataques-de-fuerza-bruta-en-servicios-sistemas-linux.html 
