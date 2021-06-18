@@ -23,10 +23,12 @@
 ![raspi_1](doc/img/imaxes-portos/porto1.png)
 
 
-- Comprobamos que podemos acceder co nome do dominio por HTTPS.
+- Comprobamos que podemos acceder co nome do dominio por HTTPS e tamén ca nosa IP pública.
 
 
 ![raspi_1](doc/img/imaxes-portos/porto11.png)
+
+![raspi_1](doc/img/imaxes-portos/porto12.png)
 
 
 
