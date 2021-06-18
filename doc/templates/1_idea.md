@@ -15,5 +15,5 @@ O software que se utilizaría sería:
 
 - Sistema Operativo: Raspberry PI OS. 
 - Software de monitorización: Zabbix para Raspberry PI OS.
-- Software de Arduino Uno: Arduino.
+- Aplicación de Arduino Uno: Arduino Software IDE.
 - Securización da rede: Firewall UFW. 
