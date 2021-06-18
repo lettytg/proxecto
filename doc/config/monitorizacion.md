@@ -75,7 +75,7 @@
 ![raspi_1](doc/img/imaxes-monitorizacion/moni7.PNG)
 
 
-- Agora procederemos a crear un rol, no cal elexiremos os privilexios que vai ter o usuario "invernadoiro". Para crear o rol seleccionaremos **Administration** - **User roles**
+- Agora procederemos a crear un rol, no cal elexiremos os privilexios que vai ter o usuario "invernadoiro". Para crear o rol seleccionaremos **Administration** - **User roles**.
 
 
 ![raspi_1](doc/img/imaxes-monitorizacion/moni8.PNG)
