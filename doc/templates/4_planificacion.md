@@ -124,13 +124,13 @@ Os pasos para constituir a SLU son os mesmos que na SL pero con lixeiras variaci
 
 - **Pasos para constituir unha Sociedade Limitada Unipersonal**:
 
-1.** Rexistrar o nome da SLU**.
+**1. Rexistrar o nome da SLU**.
 
 A denominación social da empresa é un dos papeis que che exesirá o notario para constituir a sociedade.
 
 A denominación social teñen eficacia xurídica e é por tanto o nome "oficial" da sociedade. Este nome non ten por qué ser o mesmo que o nome comercial.
 
-2.** Determinar o Capital Social**.
+**2. Determinar o Capital Social**.
 
 O capital social é a aportación que deberás facer para constituir a sociedade.
 
@@ -141,21 +141,21 @@ O capital social é a aportación que deberás facer para constituir a sociedade
         Hai que ter en conta que os 3000 euros van a ser os que soporten os gastos ata que consigamos as ventas suficientes para cubrilos.
 
 
-3. **Definir o Obxeto Social**.
+**3. Definir o Obxeto Social**.
 
 O obxeto social é a definición da actividade que vai a desenrrolar na SLU. O obxeto social deberemos indicalo posteriormente nos estatutos sociais.
 
 Ao redactar a actividade que vamos a desenrrolar teremos que indicar tamén o CNAE (Código Nacional de Actividades Económicas) ao que fai referencia a túa actividade.
 
 
-4. **Establecer o Dominio Social**.
+**4. Establecer o Dominio Social**.
 
 O dominio social que vaiamos a indicar para a SLU pode ser calquera de estos dous:
 
     - O lugar onde se desenrrole a actividade principal.
     - O lugar onde se desenrole a dirección e administración da mesma.
 
-5. **Establece os estatutos sociais**.
+**5. Establece os estatutos sociais**.
 
 O estatuto social comprende as normas que van a regular o funcionamento da sociedade.
 
@@ -169,7 +169,7 @@ Deberemos indicar o estatuto os seguintes puntos:
     - A regulación do órgano de administración.
     - A relación da sociedade cos socios (en este caso eu)
 
-6. **Abrir unha conta bancaria e conseguir o certificado das aportacións**.
+**6. Abrir unha conta bancaria e conseguir o certificado das aportacións**.
 
 Elixir un banco, abrir unha conta e ingresa o capital social.
 
@@ -178,13 +178,13 @@ O certificado de aportacións darao o banco no que ingreses o capital social.
 Pode ser que o banco tarde en emitir este certificado se o diñeiro se ingresa mediante transferencia.
 
 
-7. **Solicitar o CIF Provisional do SLU**.
+**7. Solicitar o CIF Provisional do SLU**.
 
 De ese paso encargarase no 99% das veces o notario, pero é importante que se sepa da súa existencia para fixarte se o teu notario o solicitou ou non.
 
 O CIF Provisional é o número de identificación que se ofrecerá e que poderás convertir nun CIF Definitivo unha vez teñamos a escritura rexistrada no Rexistro Mercantil.
 
-8. **Realizar a escritura da constitución**.
+**8. Realizar a escritura da constitución**.
 
 En este paso só temos que preocuparnos de ir ao notario e él realizará o trámite.
 
@@ -194,19 +194,19 @@ Os documentos que serán necesarios para construir a SLU son:
     - Certificado do Rexistro Mercantil de reserva de denominación social.
     - Certificado de aportacións do Banco.
 
-9. **Inscribir a escritura no Rexistro Mercantil**.
+**9. Inscribir a escritura no Rexistro Mercantil**.
 
 Na maioría dos casos tamén encargarase o notario de remitir telemáticamente a escritura ao Rexistro Mercantil. Para validar a escritura o rexistro deberá marcala con un selo. Por tatno, aseguremonos de que a escritura que se garde sexa a que teña selo xa que as outras non teñen efectos.
 
-10. **Obter a acta de titularidade real da SLU**.
+**10. Obter a acta de titularidade real da SLU**.
 
 A acta vaina preparar tamén o notario e tratase simplemente de un documento no que o notario certifica que ti eres a persoa física propietaria da sociedade.
 
-11. **Conseguir a firma dixital**.
+**11. Conseguir a firma dixital**.
 
 A firma dixital vaise necesitar para realizar calquera trámite ante Hacienda, a Seguridade Social ou calquera tipo de organismo público.
 
-12. **Comunicar a alta e solicitar o CIF Definitivo a Hacienda**.
+**12. Comunicar a alta e solicitar o CIF Definitivo a Hacienda**.
 
 Para realizar a alta de actividade vaise a ter que cumplimentar o modelo 036.
 
