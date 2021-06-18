@@ -24,7 +24,7 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
 
 #### Fase 2: Configuración do núcleo do proxecto.
 
-##### Tarefa 1 (se se da o caso): Montaxe do invernadoiro.
+##### Tarefa 1: (se se da o caso): Montaxe do invernadoiro.
 
 - No caso de que o cliente non dispoña do invernadoiro, ofreceremoslle a posibilidade de realizar a montaxe da infraestrutura
 
