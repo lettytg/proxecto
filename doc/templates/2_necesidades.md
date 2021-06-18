@@ -34,6 +34,8 @@ En canto a competencia, no sector dos invernadoiros automatizados actualmente ex
 ## Ideas para a súa comercialización.
 1.	Promoción.
 
+Hai 3 puntos claves que todo negocio debería de ter en conta:
+
     1.1. Páxina web.
     
         O primeiro paso para promocionar un negocio é a creación de unha páxina web. Ter unha páxina web permitirá multiplicar o alcance e chegar a un público obxetivo moito máis amplo. En ela incluiremos información de contacto para instalacións e consultas.
@@ -46,11 +48,11 @@ En canto a competencia, no sector dos invernadoiros automatizados actualmente ex
 
         Presenza en boletins científicos, especializados no Agro a través de publicidade impresa.
     
+
 2.	Modelo de negocio.
 
 A idea de negocio é unha empresa da área de informática que se centre na instalación de invernadoiros automatizados.
 
-    2.2. Xustifica a elección.
 
 # Webgrafía
 
