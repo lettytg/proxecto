@@ -44,7 +44,7 @@
 
 - Unha vez manexado o sistema, abriremos unha consola para ver que ip se lle asignou:
 
-`# ip a` (En este caso: 192.168.1.37/24)
+`# ip a` (En este caso: 192.168.1.37/24 aínda que máis adiante quedaría a 192.168.1.33/24).
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp7.png)
 
