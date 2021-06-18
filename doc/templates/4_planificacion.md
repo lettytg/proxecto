@@ -11,7 +11,7 @@
 Descríbense as fases en que se divide o proxecto e as tarefas que se han levar a cabo en cada unha destas fases.
 Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se son os mesmos, de maneira máis xeral.
 
-#### Fase 1: Análise do entorno de imprantación.
+#### FASE 1 : ANÁLISE DO ENTORNO DE IMPRANTACIÓN.
 
 ##### Tarefa 1: Desprazamentos as dependencias do cliente. 
 
@@ -20,9 +20,9 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
 
 ##### Tarefa 2: Análise do marco de traballo.
 
-- Avaliaremos as necesidades do cliente. Unha vez recopilada a información procedemos á planificación do proxecto.
+- Avaliaremos as necesidades do cliente. Unha vez recopilada a información procederemos á planificación do proxecto.
 
-#### Fase 2: Configuración do núcleo do proxecto.
+#### FASE 2: CONFIGURACIÓN DO NÚCLEO DO PROXECTO.
 
 ##### Tarefa 1: (se se da o caso): Montaxe do invernadoiro.
 
@@ -30,7 +30,7 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
 
 ##### Tarefa 2: Instalación e configuración da Raspberry PI.
 
-- Instalaremos o SO na MiscroSD da Raspberry PI e realizarase unha configuración básica da mesma.
+- Instalaremos o SO na MiscroSD da Raspberry PI e realizarase unha configuración básica da mesma, os pasos están realizados no [punto 5.1](doc/config/raspbian.md).
 
 - Recursos hardware/software necesarios:
 
@@ -41,7 +41,7 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
     - Ferramentas para a montaxe de ambas pracas.
     - Imaxe do sistema operativo (Raspberry Pi OS).
 
-#### Fase 3: Instalación do software para a monitorización: Zabbix.
+#### FASE 3 : INSTALACIÓN E CONFIGURACIÓN DO SOFTWARE PARA A MONITORIZACIÓN: ZABBIX.
 
 ##### Tarefa 1: Instalación de Zabbix.
 
@@ -56,7 +56,7 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
  
 - Configuración do Zabbix, para que poida monitorizar os valores recollidos polo sensor de temperatura e humidade DHT11, e monitorizar o propio servidor e ver o estado no que se encontra.
  
-#### Fase 4: Configuración do Arduino UNO.
+#### FASE 4: CONFIGURACIÓN DO ARDUINO UNO.
 
 ##### Tarefa 1: Instalación de IDE de Arduino.
 
@@ -82,6 +82,17 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
 - Recursos hardware/software:
 
     - Recursos hardware: Servomotor + Aspas do ventilador.
+
+#### FASE 5: CONFIGURACIÓN DO ROUTER.
+
+##### Tarefa 1: Apertura dos portos.
+
+- Abrimos os portos necesarios no router do cliente.
+
+- Recursos hardware/software:
+
+    - As credenciais para acceder ao router.
+    - Un equipo para poder realizar o acceso.   
 
 ### Diagrama de Gantt
 
@@ -233,11 +244,11 @@ Se a actividade que desenrrola a empresa se pode considerar como unha actividade
 | TAXA | IMPORTE |
 |--|--|
 | Capital mínimo inicial | 3.000 €
-| Certificado negativo de denominación: | 13,52 € €
+| Certificado negativo de denominación: | 13,52 €
 | Notaría (firma de estatutos): | 300 €
 | Rexistro Mercantil: | 40 €
 |Certificado dixital: | 14 €
-| Asesoría especializada en constitución de empresas: | 800  €
+| Asesoría especializada en constitución de empresas: | 800 €
 | TOTAL | PROXECTO | 
 |--|--|
 | -- | 4.167,52 € |
@@ -247,8 +258,5 @@ Se a actividade que desenrrola a empresa se pode considerar como unha actividade
 ### WEBGRAFÍA
 Guía para a elaboración de proyectos. Gobierno Vasco.
 https://www.pluralismoyconvivencia.es/upload/19/71/guia_elaboracion_proyectos_c.pdf  (páxina 49 e seguintes)
-
-
-
 
 
