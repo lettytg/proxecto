@@ -85,7 +85,12 @@ Configuración do Zabbix, para que poida monitorizar os valores recollidos polo 
 
 
 ### Diagrama de Gantt
-Un diagrama de Gantt é unha representación gráfica da secuenciación que tes que seguir para realizar as tarefas planificadas. Pódese usar o software "Gantt project" ou calquera outro que permita representar nun cronograma a información relativa á planificación de tarefas. Neste diagrama plasmarás de forma gráfica e manexable as fases e tarefas anteriores.
+
+- O diagrama de Gantt é unha metodoloxía de representación de actividades ou tarefas que pretende dar unha visión xeneralizada sobre o tempo dedicado a cada actividade contemplada de forma independiente dentro de un proceso. 
+- En este caso utilizaremos o aplicativo de GanttProject.
+
+![raspi_1](doc/img/imaxes-planificacion/diagramadeGantt.png)
+
 
 ## Orzamento
 O orzamento do proxecto será a suma do importe dos materiais que necesites para realizar o proxecto máis o importe que corresponde ao traballo realizado. 
