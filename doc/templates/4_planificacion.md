@@ -224,8 +224,15 @@ Unha vez marcada terás que cubrir os seguintes datos, segundo as necesidades da
 7. Os datos relativos a retencións e ingresos a conta.
 8. Solicitude de alta no Rexistro de Operadores Intracomunitarios (se procede).
 
+- **Impostos de unha Sociedade Limitada Unipersoal**:
 
+Os impostos que presenta cada Sociedade non depende do tipo de Sociedade senon do tipo de actividade a que se dedique, ademáis de se teñen traballadores ou non ao seu cargo.
 
+Se a actividade que desenrrola a empresa se pode considerar como unha actividade común, seguramente os impostos que terás que ter en conta son:
+
+    - Imposto de Sociedades (obrigatorio).
+    - IVA (se a actividade leva IVA).
+    - Retención de traballadores (se hai persoal contratado)
 
 ### Orzamento por partidas de inversión / gasto:
 
