@@ -86,7 +86,7 @@ Configuración do Zabbix, para que poida monitorizar os valores recollidos polo 
 
 ### Diagrama de Gantt
 
-- O diagrama de Gantt é unha metodoloxía de representación de actividades ou tarefas que pretende dar unha visión xeneralizada sobre o tempo dedicado a cada actividade contemplada de forma independiente dentro de un proceso. 
+- O diagrama de Gantt é unha metodoloxía de representación de actividades ou tarefas que pretende dar unha visión xeneralizada sobre o tempo dedicado a cada actividade contemplada de forma independente dentro de un proceso. 
 - En este caso utilizaremos o aplicativo de GanttProject.
 
 ![raspi_1](doc/img/imaxes-planificacion/diagramadeGantt.png)
