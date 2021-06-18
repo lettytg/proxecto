@@ -198,7 +198,7 @@ Os pasos para constituir a SLU son os mesmos que na SL pero con lixeiras variaci
 
     Os documentos que serán necesarios para construir a SLU son:
 
-        - Estatuos sociais.
+        - Estatutos sociais.
         - Certificado do Rexistro Mercantil de reserva de denominación social.
         - Certificado de aportacións do Banco.
 
