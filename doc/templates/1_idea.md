@@ -13,7 +13,7 @@ En este caso utilizarase unha Raspberry Pi 3 B+, un Arduino UNO, un sensor de te
 
 O software que se utilizaría sería:
 
-- Sistema Operativo: Raspbian 
-- Software de monitorización: Zabbix para Raspbian.
+- Sistema Operativo: Raspberry PI OS. 
+- Software de monitorización: Zabbix para Raspberry PI OS.
 - Software de Arduino Uno: Arduino.
 - Securización da rede: Firewall UFW. 
