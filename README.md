@@ -94,3 +94,6 @@ Todas as ferramentas software que son empregadas en este proxecto son de softwar
 - https://programarfacil.com/blog/arduino-blog/sensor-dht11-temperatura-humedad-arduino/
 - http://www.netpingdevice.com/blog/monitoring-mikroklimata-i-datchikov-tipa-suhogo-kontakta-pri-pomoschi-sms-uvedomlenij-otpravlyaemyh-v-zabbix
 - https://blog.carreralinux.com.ar/2017/11/usar-ufw-en-linux-administrar-firewall/
+- https://github.com/zbx-sadman/zabbuino/blob/master/zabbuino.ino
+- https://github.com/zaphodus/ESP8266ZabbixSender
+- 
