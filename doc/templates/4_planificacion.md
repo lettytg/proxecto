@@ -198,28 +198,31 @@ Os documentos que serán necesarios para construir a SLU son:
 
 Na maioría dos casos tamén encargarase o notario de remitir telemáticamente a escritura ao Rexistro Mercantil. Para validar a escritura o rexistro deberá marcala con un selo. Por tatno, aseguremonos de que a escritura que se garde sexa a que teña selo xa que as outras non teñen efectos.
 
-10. Obter a acta de titularidade real da SLU.
+10. **Obter a acta de titularidade real da SLU**.
 
-A acta 
+A acta vaina preparar tamén o notario e tratase simplemente de un documento no que o notario certifica que ti eres a persoa física propietaria da sociedade.
 
+11. **Conseguir a firma dixital**.
 
+A firma dixital vaise necesitar para realizar calquera trámite ante Hacienda, a Seguridade Social ou calquera tipo de organismo público.
 
+12. **Comunicar a alta e solicitar o CIF Definitivo a Hacienda**.
 
+Para realizar a alta de actividade vaise a ter que cumplimentar o modelo 036.
 
+Para iso, hai que marcar a opción de "Cumprimentación e presentación telemática 036".
+Na primeira páxina que che apareza marca a casilla "Alta no censo do empresario, profesionais e retenedores".
 
+Unha vez marcada terás que cubrir os seguintes datos, segundo as necesidades da túa empresa:
 
-
-
-
-
-
-
-
-
-
-
-
-
+1. O dominicilio fiscal.
+2. Os datos identificativo.
+3. Os datos relativos a actividades económicas e locais.
+4. Os datos relativos ao IVA.
+5. Os datos relativos ao IRPF.
+6. Os datos relativos ao IS.
+7. Os datos relativos a retencións e ingresos a conta.
+8. Solicitude de alta no Rexistro de Operadores Intracomunitarios (se procede).
 
 
 
