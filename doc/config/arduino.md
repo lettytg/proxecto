@@ -1,4 +1,4 @@
-# INSTALACIÓN E CONFIGURACIÓN DE ARDUINO UNO.
+# INSTALACIÓN DO IDE E CONFIGURACIÓN DE ARDUINO UNO.
 
 - Instalamos o software de Arduino no equipo de traballo dende a [páxina oficial.](https://www.arduino.cc/en/software/)
 
@@ -79,7 +79,7 @@ void loop(){
   
 ```
 
-- Para que isto funcione, necesitamos unhas librerías do propio sensor, en este caso descarguei a librería da seguinte [páxina](https://codeload.github.com/adafruit/Adafruit_Sensor/zip/refs/heads/master)
+- Para que isto funcione, necesitamos unhas librerías do propio sensor, en este caso descarguei a librería da seguinte [páxina.](https://codeload.github.com/adafruit/Adafruit_Sensor/zip/refs/heads/master)
 
 
 ![raspi_1](doc/img/imaxes-arduino/ardu12.png)
