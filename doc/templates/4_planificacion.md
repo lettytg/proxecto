@@ -1,7 +1,5 @@
 # FASE DE PLANIFICACIÓN DO PROXECTO
 
-## Obxectivos do proxecto
-
 ## Guía de planificación do proxecto
 
 ### Metodoloxía
