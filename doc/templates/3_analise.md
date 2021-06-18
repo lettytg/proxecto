@@ -193,5 +193,6 @@ Definir, de forma xeral, os pasos que se han seguir para levar a cabo o proxecto
 Este proxecto está centrado en cubrir unha necesidade que a meirande parte da xente que se adica a isto non se pode permitir. Nun futuro gustaríame engadir máis funcionalidades, e moitos máis aspectos que non puiden abordar no proxecto como por exemplo:
 
 - Integrar un sistema automático de rego, para complementar o sistema de refrixeración que temos (ventilador).
+- Control da humidade e temperatura do terreo.
 - Realizar unha base de datos con todos os datos das prantas do invernadoiro, coa súas respectivas necesidades.
 - Creación de unha aplicación móbil que xestione de forma manual todos os compoñentes do invernadoiro.
