@@ -326,7 +326,7 @@ o servizo Fail2ban, vixía os intentos de acceso aos servidores que teñamos ins
 
 ![raspi_1](doc/img/imaxes-raspbian/fail2ban6.png)
 
-- Podremos ver no ficheiro de log se houbo intentos de acceso non autorizados.
+- Poderemos ver no ficheiro de log se houbo intentos de acceso non autorizados.
 
 `sudo cat /var/log/fail2ban.log`
 
