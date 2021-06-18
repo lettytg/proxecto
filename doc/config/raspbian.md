@@ -176,6 +176,9 @@ do usuraio predeterminado **pi**, realizando isto conseguirase que a nosa Raspbe
 ![raspi_1](doc/img/imaxes-raspbian/rasp21.png)
 
 
+### FIREWALL UFW.
+
+
 - Instalaremos e configuraremos un cortafogos, en este caso UFW, sen un cortafogos activo, a nosa Raspberry Pi está exposta a recibir posibles 
 ataques dende Internet (ou incluso dende outro ordenadores da rede local). O cortafogos permitenos vixiar os portos de comunicacións e controlar
 todo o que entra na nosa máquina dende o exterior e tamén todo o que sae de ela hacia o exterior. En este caso elixo UFW, porque é máis fácil de configurar, de aí o seu nome "**uncomplicated firewall**".
@@ -274,4 +277,69 @@ de conexións simultáneas por IP que permite o servidor.
 
 
 ![raspi_1](doc/img/imaxes-raspbian/rasp28.png)
+
+### FAIL2BAN.
+
+o servizo Fail2ban, vixía os intentos de acceso aos servidores que teñamos instalados e banea (bloquea) aquelas IPs que intentaron entrar no sistema mediante forza bruta.
+
+- O primeiro paso é instalar o servizo.
+
+`sudo apt install fail2ban`
+
+![raspi_1](doc/img/imaxes-raspbian/fail2ban1.png)
+
+- Unha vez instalado accedemos ao ficheiro de configuración.
+
+`sudo nano /etc/fail2ban/jail.conf`
+
+- Na sección [DEFAULT] encontraremos varias liñas relativas a configuración xenérica do servizo. As fundamentais son: **ignoreip** (IPs que non deseamos que se baneen, que corresponden a localhost e ademáis engadiremos todas as IPs da nosa rede local). **Bantime** (tempo de bloqueo), **findtime** (tempo durante o que se espera ata alcanzar o número máximo de intentos de acceso fallidos) e **maxretry** (número de intentos de login fallidos para que se active o bloqueo)
+
+![raspi_1](doc/img/imaxes-raspbian/fail2ban2.png)
+
+
+- Na sección de [JAILS] é onde se activa ca un dos servizos que teñamos instalados.
+- En **[sshd]** activaremos a seguridade do servidor SSH contra ataques de forza bruta. Cada servizo activarase pondo **enabled = true** ao comezo da sección. 
+
+
+![raspi_1](doc/img/imaxes-raspbian/fail2ban3.png)
+
+
+- Se estamos a utilizar o servizo Apache, deberíamos activar estas opcións.
+
+
+![raspi_1](doc/img/imaxes-raspbian/fail2ban4.png)
+
+
+- Unha vez feito isto, procederemos a reiniciar e comprobar o estado do servizo.
+
+
+`sudo service fail2ban restart`
+`sudo service fail2ban status`
+
+
+![raspi_1](doc/img/imaxes-raspbian/fail2ban5.png)
+
+
+- Vamos a comprobar o estado do servizo SSH, que nos mostrará se ten algunha IP baneada en este momento.
+
+`sudo fail2ban-client status sshd`
+
+![raspi_1](doc/img/imaxes-raspbian/fail2ban6.png)
+
+- Podremos ver no ficheiro de log se houbo intentos de acceso non autorizados.
+
+`sudo cat /var/log/fail2ban.log`
+
+![raspi_1](doc/img/imaxes-raspbian/fail2ban7.png)
+
+
+
+
+
+
+
+
+
+
+
 
