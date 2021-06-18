@@ -76,9 +76,9 @@ Todas as ferramentas software que son empregadas en este proxecto son de softwar
 - [VNC Viewer](https://www.realvnc.com/es/connect/download/viewer/)
 - [Zabbix 5.4](https://www.zabbix.com/la/download)
 
-## **Enlace ao vídeo de demostración**
+### **Enlace ao vídeo de demostración**
 
--[Demostración da monitorización ao invernadoiro](https://www.youtube.com/watch?v=kGAcwiCoPGI)
+-[Vídeo de demostración do proxecto](https://www.youtube.com/watch?v=kGAcwiCoPGI)
 
 ### **Documentación**
 
