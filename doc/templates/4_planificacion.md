@@ -24,18 +24,51 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
 
 #### Fase 2: Configuración do núcleo do proxecto.
 
-##### Tarefa 1: xxxxxxxx
+##### Tarefa 1 (se se da o caso): Montaxe do invernadoiro.
 
-Descrición: 
+- No caso de que o cliente non dispoña do invernadoiro, ofreceremoslle a posibilidade de realizar a montaxe da infraestrutura
 
-Recursos hardware/software: 
+#### Tarefa 2: Instalación e configuración da Raspberry PI OS.
 
-Recursos humanos: 
+- Instalaremos o SO na MiscroSD e realizarase unha configuración básica da mesma.
 
-Duración: 
+- Recursos hardware/software necesarios:
 
-#### Tarefa 2
-...
+    - Raspberry Pi 3 B+
+    - Carcasa para a praca Raspberry Pi.
+    - Arduino UNO.
+    - Carcasa para o Urduino UNO.
+    - Ferramentas para a montaxe de ambas pracas.
+    - Imaxe do sistema operativo (Raspberry Pi OS)
+
+#### Fase 3: Instalación do software para a monitorización: Zabbix.
+
+#### Tarefa 1: Instalación de Zabbix.
+
+- Instalación do Zabbix, executando os pasos no [punto 5.2](doc/config/zabbix.md).
+
+- Recursos hardware/software:
+
+    - Hardware: Raspberry PI.
+    - Software: Zabbix.
+
+#### Tarefa 2: Configuración do Arduino UNO.
+
+- Realizar a instalación do IDE para poder controlar mediante código o Arduino.
+
+- Recursos hardware/software:
+
+    - Hardware: Arduino UNO.
+    - Sofware: Arduino IDE.
+
+#### Tarefa 3: Engadir e configurar o sensor de temperatura en Arduino UNO.
+
+ 
+-  Configurar o sensor de temperatura, conforme cando supere unha determinada temperatura encenda o ventilador.
+ 
+    - Instalación do sensor DHT11 na placa de Arduino.
+    - Instalación do ventilador na placa de Arduino.
+
 
 ### Diagrama de Gantt
 Un diagrama de Gantt é unha representación gráfica da secuenciación que tes que seguir para realizar as tarefas planificadas. Pódese usar o software "Gantt project" ou calquera outro que permita representar nun cronograma a información relativa á planificación de tarefas. Neste diagrama plasmarás de forma gráfica e manexable as fases e tarefas anteriores.
