@@ -39,13 +39,13 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
     - Arduino UNO.
     - Carcasa para o Urduino UNO.
     - Ferramentas para a montaxe de ambas pracas.
-    - Imaxe do sistema operativo (Raspberry Pi OS)
+    - Imaxe do sistema operativo (Raspberry Pi OS).
 
 #### Fase 3: Instalación do software para a monitorización: Zabbix.
 
 ##### Tarefa 1: Instalación de Zabbix.
 
-- Instalación do Zabbix, executando os pasos no [punto 5.2](doc/config/zabbix.md).
+- Instalación do Zabbix, executando os pasos no [punto 5.2.](doc/config/zabbix.md)
 
 - Recursos hardware/software:
 
@@ -83,10 +83,9 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
 
     - Recursos hardware: Servomotor + Aspas do ventilador.
 
-
 ### Diagrama de Gantt
 
-- O diagrama de Gantt é unha metodoloxía de representación de actividades ou tarefas que pretende dar unha visión xeneralizada sobre o tempo dedicado a cada actividade contemplada de forma independente dentro de un proceso. 
+- O diagrama de Gantt é unha metodoloxía de representación de actividades ou tarefas que pretende dar unha visión xeneralizada sobre o tempo dedicado a cada actividade, contemplada de forma independente dentro de un proceso. 
 - En este caso utilizaremos o aplicativo de GanttProject.
 
 ![raspi_1](doc/img/imaxes-planificacion/diagramadeGantt.png)
@@ -112,7 +111,7 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
 
 En este caso crearemos unha Sociedade Limitada Unipersoal que é unha forma xurídica que cada vez elixen máis os emprendedores.
 
-Funciona igual que unha Sociedade Limita Unipersoal, coa única diferencia de que todas as responsabilidades e os beneficios recaen sobre ti.
+Funciona igual que unha Sociedade Limitada, coa única diferencia de que todas as responsabilidades e os beneficios recaen sobre ti.
 
 - **Características da Socieade Limitada Unipersoal**:
 
@@ -136,7 +135,7 @@ O capital social é a aportación que deberás facer para constituir a sociedade
 
     - Canto capital social aporto?
 
-        A aportación debe ter un valor mínimo de 3000 euros para poder crear a SLU, pero se temos unha estrutura de gastos importante recomendase por máis de 3000 euros para iniciar a túa actividade.
+        A aportación debe ter un valor mínimo de 3000 euros para poder crear a SLU, pero se temos unha estrutura de gastos importante recomendase por máis de 3000 euros para iniciar a actividade.
 
         Hai que ter en conta que os 3000 euros van a ser os que soporten os gastos ata que consigamos as ventas suficientes para cubrilos.
 
@@ -153,7 +152,7 @@ Ao redactar a actividade que vamos a desenrrolar teremos que indicar tamén o CN
 O dominio social que vaiamos a indicar para a SLU pode ser calquera de estos dous:
 
     - O lugar onde se desenrrole a actividade principal.
-    - O lugar onde se desenrole a dirección e administración da mesma.
+    - O lugar onde se desenrrole a dirección e administración da mesma.
 
 **5. Establece os estatutos sociais**.
 
@@ -171,7 +170,7 @@ Deberemos indicar o estatuto os seguintes puntos:
 
 **6. Abrir unha conta bancaria e conseguir o certificado das aportacións**.
 
-Elixir un banco, abrir unha conta e ingresa o capital social.
+Elixir un banco, abrir unha conta e ingresar o capital social.
 
 O certificado de aportacións darao o banco no que ingreses o capital social.
 
@@ -208,12 +207,7 @@ A firma dixital vaise necesitar para realizar calquera trámite ante Hacienda, a
 
 **12. Comunicar a alta e solicitar o CIF Definitivo a Hacienda**.
 
-Para realizar a alta de actividade vaise a ter que cumplimentar o modelo 036.
-
-Para iso, hai que marcar a opción de "Cumprimentación e presentación telemática 036".
-Na primeira páxina que che apareza marca a casilla "Alta no censo do empresario, profesionais e retenedores".
-
-Unha vez marcada terás que cubrir os seguintes datos, segundo as necesidades da túa empresa:
+Terase que cubrir os seguintes datos, segundo as necesidades da túa empresa:
 
 1. O dominicilio fiscal.
 2. Os datos identificativo.
@@ -236,38 +230,19 @@ Se a actividade que desenrrola a empresa se pode considerar como unha actividade
 
 ### Orzamento por partidas de inversión / gasto:
 
-| CONCEPTO | IMPORTE|
+| TAXA | IMPORTE |
 |--|--|
-|**A) INVERSIONS**
-|Gastos de establecemento e gastos de constitución
-|Total inmobilizacións inmateriais
-|Terreos
-|Construcións
-|Instalacións técnicas
-|Maquinaria
-|Ferramentas
-|Mobiliario e instalacións
-|Equipos informáticos
-|Elementos de transporte
-|Outro inmobilizado material
-|Total inmobilizacións materiais
-|Outros gastos a distribuír en varios exercicios
-|**TOTAL INVERSIÓNS:**
-|**B) GASTOS**
-|Compras de materiais
-|Arrendamentos
-|Publicidade, propaganda e relacións públicas
-|Persoal
-|Reparacións e conservación
-|Servizos de profesionais independentes
-|Outros gastos xerais
-|Gastos financeiros
-|Amortizacións
-|Gastos de xestión e administración
-|**TOTAL GASTOS:**
+| Capital mínimo inicial | 3.000 €
+| Certificado negativo de denominación: | 13,52 € €
+| Notaría (firma de estatutos): | 300 €
+| Rexistro Mercantil: | 40 €
+|Certificado dixital: | 14 €
+| Asesoría especializada en constitución de empresas: | 800  €
+| TOTAL | PROXECTO | 
+|--|--|
+| -- | 4.167,52 € |
 
-|TOTAL ORZAMENTO:
-|--|
+
 
 ### WEBGRAFÍA
 Guía para a elaboración de proyectos. Gobierno Vasco.
