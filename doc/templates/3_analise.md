@@ -200,3 +200,4 @@ Este proxecto está centrado en cubrir unha necesidade que a meirande parte da x
 - Realizar unha base de datos con todos os datos das prantas do invernadoiro, coa súas respectivas necesidades.
 - Creación de unha aplicación móbil que xestione de forma manual todos os compoñentes do invernadoiro.
 - Crear un sistema de alertas empregando Telegram.
+- Imprantación de cámaras IP que controlen os nosos cultivos.
