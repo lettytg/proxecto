@@ -4,7 +4,7 @@
 ## Xustificación das necesidades 
 
 
-A meirande parte dos agricultores en España, descoñecen dos sistemas automatizados nos invernadoiros e non posúen os recursos económicos para inverter en eles, debido ao alto custe de estes. Ao desenrrolar un sistema de invernadoiro automatizado que utilice diferentes técnicas de rego e refrixeración, lograrase baixar os custes de estás sistemas e facilitar o acceso por parte dos agricultores a estas tecnoloxías, que lle permitirán aumentar a rentabilidade das colleitas e suplir as necesidades do mercado nacional.
+A meirande parte dos agricultores en España, descoñecen dos sistemas automatizados nos invernadoiros e non posúen os recursos económicos para inverter en eles, debido ao alto custe de estes. Ao desenrolar un sistema de invernadoiro automatizado que utilice diferentes técnicas de rego e refrixeración, lograrase baixar os custes de estás sistemas e facilitar o acceso por parte dos agricultores a estas tecnoloxías, que lle permitirán aumentar a rentabilidade das colleitas e suplir as necesidades do mercado nacional.
 
 
 3.	Cal é o obxectivo xeral que persegue o proxecto?
@@ -29,9 +29,10 @@ Tras varias entrevistas a agricultores veciños meus, chegamos a conclusión de 
         
 2.	Competencia.
 
-En canto a competencia, no sector dos invernadoiros automatizados actualmente existen máis competidores que antigamente xa que se comeza a imprantar este tipo de metodoloxías. Pero é un sector onde non hai moita competencia.
+En canto a competencia, no sector dos invernadoiros automatizados actualmente existen máis competidores que antigamente xa que se comeza a imprantar este tipo de metodoloxías. Pero é un sector onde aínda non hai moita competencia.
 
 ## Ideas para a súa comercialización.
+
 1.	Promoción.
 
 Hai 3 puntos claves que todo negocio debería de ter en conta:
@@ -46,7 +47,7 @@ Hai 3 puntos claves que todo negocio debería de ter en conta:
     
     1.3. Propaganda en medios tradicionais especializados.
 
-        Presenza en boletins científicos, especializados no agro a través de publicidade impresa.
+        Presenza en boletins científicos, especializados no agro a través de propaganda impresa (revistas, xornais).
     
 
 2.	Modelo de negocio.
