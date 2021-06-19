@@ -60,7 +60,17 @@
 ![raspi_1](doc/img/imaxes-alertas/alertas10.png)
 
 
-## CONFIGURACIÓN DE ALERTAS
+### CONFIGURACIÓN DE ALERTAS
+
+- En **Configuration** - **Actions** - **Trigger actions** - **Report problems to Zabbix administrators**. Engadiremos "Host equals Zabbix server". Unha vez agregado en "Operations" editaremos a opción "Send message to user groups: Zabbix administrators via all media" e engadiremos o correo electrónico e a mensaxe por defecto que se vai recibir cando se xere unha alerta no servidor.
+
+
+![raspi_1](doc/img/imaxes-alertas/alertas7.1.png)
+
+![raspi_1](doc/img/imaxes-alertas/alertas8.png)
+
+
+
 
 
 
