@@ -13,7 +13,7 @@ Zabbix permitiranos recompilar información dos sensores que irán conectados a 
 
 ## Instalación / Puesta en marcha
 
-Isto recollese no seguinte punto: [Implantación]((doc/templates/6_implantacion.md))
+Isto recollese no seguinte punto: [Imprantación.]((doc/templates/6_implantacion.md))
 
 ## Sobre o autor
 
@@ -40,7 +40,7 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 2. [Análises](doc/templates/3_analise.md)
 3. [Planificación](doc/templates/4_planificacion.md)
 4. [Deseño](doc/templates/5_deseño.md)
-5. Implantación
+5. Imprantación
 
     5.1. [INSTALACIÓN E CONFIGURACIÓN DE RASPBERRY PI OS](doc/config/raspbian.md)
 
