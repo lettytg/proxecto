@@ -80,7 +80,7 @@ Todas as ferramentas software que son empregadas en este proxecto son de softwar
 - [Documentación oficial Zabbix 5.4](https://www.zabbix.com/documentation/current/)
 - [Documentación oficial Raspberry Pi](https://www.raspberrypi.org/documentation/configuration/)
 - [Guía de referencia de Arduino UNO](https://www.arduino.cc/reference/es/)
-- [Guía sobre librerías en Arduino](https://aprendiendoarduino.wordpress.com/2016/11/16/librerias-arduino-2/)
+- [Guía sobre librerías en Arduino](https://aprendiendoarduino.wordpress.com/2016/11/16/librerias-arduino-2/)(https://www.arduino.cc/reference/en/libraries/dht-sensor-library/) 
 - [Guía sobre sensor DHT11](https://rduinostar.com/documentacion/datasheets/dht11-overview/)
 
 
@@ -94,3 +94,6 @@ Todas as ferramentas software que son empregadas en este proxecto son de softwar
 - https://github.com/zbx-sadman/zabbuino/blob/master/zabbuino.ino
 - https://github.com/zaphodus/ESP8266ZabbixSender
 - https://www.zonasystem.com/2019/07/fail2ban-idps-control-de-ataques-de-fuerza-bruta-en-servicios-sistemas-linux.html 
+- https://economipedia.com/definiciones/diagrama-de-gantt.html 
+- https://raspberrytips.com/mail-server-raspberry-pi/ 
+- https://www.zonasystem.com/2019/07/fail2ban-idps-control-de-ataques-de-fuerza-bruta-en-servicios-sistemas-linux.html
