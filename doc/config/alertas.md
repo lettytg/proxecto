@@ -80,4 +80,8 @@
 
 ![raspi_1](doc/img/imaxes-alertas/alertas14.png)
 
+- Agora comprobaremos no correo electrónico se recibimos o correo da alerta.
+
+![raspi_1](doc/img/imaxes-alertas/alertas15.png)
+
 
