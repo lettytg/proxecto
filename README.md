@@ -58,7 +58,7 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
     5.8. [MONITORIZACIÓN DO SENSOR DE TEMPERATURA CON ZABBIX](doc/config/monitorizacion.md)
 
-    5.9. [CONFIGURACIÓN DAS ALERTAS CON ZABBIX](doc/config/alertas.md)
+    5.9. [CONFIGURACIÓN DO SERVIZO SMTP CON POSTFIX PARA RECIBIR ALERTAS DE ZABBIX](doc/config/alertas.md)
 
 
 ## Guía de contribución
