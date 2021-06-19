@@ -18,6 +18,7 @@ Exemplo:
  1. A aplicación web (Zabbix) debe permitir controlar o acceso ao sistema a través do usuario e password.
  2. O sistema debe permitir monitorizar o estado dos sensores, en este caso de temperatura e humidade. (Se tivesemos outros sensores, de luz, humidade do terreo tamén poderíamos monitorizar estos valores).
  3. O sistema debe permitir visualizar a través da páxina de Zabbix un historial cas diferentes lecturas rexistradas polo sensor de temperatura e o tempo no cal se están rexistrando.
+ 4. O sistema debe permitir enviar correos de alerta ao noso correo.
  
 ## Requerimentos non funcionais
 
@@ -188,6 +189,7 @@ Definir, de forma xeral, os pasos que se han seguir para levar a cabo o proxecto
 7. Instalación e configuración de Arduino UNO.
 8. Instalación e configuración de Zabbix 5.4.
 9. Monitorización do sensor de temperatura en Zabbix.
+10. configuración do servizo SMTP con Postfix para recibir alertas de Zabbix.
 
 ## Melloras futuras
 
