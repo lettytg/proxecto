@@ -13,7 +13,7 @@ Zabbix permitiranos recompilar información dos sensores que irán conectados a 
 
 ## Instalación / Puesta en marcha
 
-> Ver [Implantación]((doc/templates/6_implantacion.md))
+Isto recollese no seguinte punto: [Implantación]((doc/templates/6_implantacion.md))
 
 ## Sobre o autor
 
