@@ -118,7 +118,7 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
 |--|--|
 | -- | 95,85 € |
 
-### Orzamento da creción da empresa.
+### Orzamento da creación da empresa.
 
 #### Trámites necesarios
 
