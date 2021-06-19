@@ -1,6 +1,6 @@
 # Idea
 
-Este proxecto xurde como unha necesidade que me gustaría imprantar no invernadoiro que teño na casa, xa que me gustaría automatizar máis os labores que leva manter un invernadoiro. Como ben sabemos, un invernadoiro necesita persoal que estea pendente todos os días de que a produción non se vexa danada polos cambios de tempo durante o día. Con esta imprantación teríamos moitas vantaxes, xa que teríamos un mallor control da producción e un liberamente de carga de traballo para o persoal que se dedica ao mantemento do invernadoiro. 
+Este proxecto xurde como unha necesidade que me gustaría imprantar no invernadoiro que teño na casa, xa que me gustaría automatizar máis os labores que leva manter un invernadoiro. Como ben sabemos, un invernadoiro necesita persoal que estea pendente todos os días de que a produción non se vexa danada polos cambios de tempo durante o día. Con esta imprantación teríamos moitas vantaxes, xa que teríamos un mallor control da producción e un liberamento de carga de traballo para o persoal que se dedica ao mantemento do invernadoiro. 
 
 Existen moitas empresas que ofrecen unha solución para que esta idea que prantexo, só que o custe é moi elevado, e a meirande parte da xente non dispon de medios para pagar estes servizos.
 
