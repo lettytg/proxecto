@@ -99,4 +99,4 @@ Todas as ferramentas software que son empregadas en este proxecto son de softwar
 - https://raspberrytips.com/mail-server-raspberry-pi/ 
 - https://www.zonasystem.com/2019/07/fail2ban-idps-control-de-ataques-de-fuerza-bruta-en-servicios-sistemas-linux.html
 - https://share.zabbix.com/cat-server-hardware/sensors
-
+- https://pyserial.readthedocs.io/en/latest/shortintro.html 
