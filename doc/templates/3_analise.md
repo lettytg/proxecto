@@ -30,7 +30,7 @@ Exemplo:
 
 Tipos de usuario que poderán acceder ó noso sistema. Poderán diferenciarse polos permisos sobre os datos, pantallas que se lles amosan, operacións que poden levar a cabo, etc.
 
-Usuarios do sistema Raspbian:
+Usuarios do sistema Raspberry PI OS:
 
 - **Usuario administrador:** É o responsable da administración e configuración de todo o sistema, é o único que ten permisos para engadir novos usuarios, instalar aplicacións, etc.
 - **Usuario estándar:** Só poderá acceder a certas carpetas e arquivos.
