@@ -44,9 +44,7 @@
 
 - O seguinte paso será configurar o correo para recibir alertas do Zabbix, para iso iremos a **Administration** - **Media Types**.
 
-
 ![raspi_1](doc/img/imaxes-alertas/alertas6.png)
-
 
 - Agregaremos o correo ao cal se van enviar as alertas, en este caso "alertasinvernao@gmail.com", xunto co seu contrasinal.
 
