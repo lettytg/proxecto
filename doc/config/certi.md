@@ -7,6 +7,7 @@
     - Autenticar a identidade do sitio web, garantizando aos visitantes que no están nun sitio falso.
     - Cifrar a información transmitida.
 
+
 - Procederemos a ir a nosa máquina e habilitaremos o módulo **rewrite** e **SSL** de Apache2.
 
 
