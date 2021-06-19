@@ -46,12 +46,12 @@ Hai 3 puntos claves que todo negocio debería de ter en conta:
     
     1.3. Propaganda en medios tradicionais especializados.
 
-        Presenza en boletins científicos, especializados no Agro a través de publicidade impresa.
+        Presenza en boletins científicos, especializados no agro a través de publicidade impresa.
     
 
 2.	Modelo de negocio.
 
-A idea de negocio é unha empresa da área de informática que se centre na instalación de invernadoiros automatizados.
+A idea de negocio é unha empresa da área de informática que se centre na instalación de invernadoiros automatizados. Adicarémonos a automatización de invernadoiros xa construídos e tamén a construción dos mesmos se fose necesario. En este caso seremos unha Sociedade Limitada Unipersoal. 
 
 
 # Webgrafía
