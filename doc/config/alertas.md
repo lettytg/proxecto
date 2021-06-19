@@ -42,7 +42,7 @@
 
 ## CONFIGURACIÓN DO CORREO EN ZABBIX
 
-- O seguinte paso será configurar o correo para recibir alertas do Zabbix, para iso iremos a **Administration** - **Media types**.
+- O seguinte paso será configurar o correo para recibir alertas do Zabbix, para iso iremos a **Administration** - **Media Types**.
 
 
 ![raspi_1](doc/img/imaxes-alertas/alertas6.png)
