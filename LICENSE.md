@@ -5,7 +5,7 @@ Copyright 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc http://fsf.
 
 Se permite a cualquier persona la copia literal y distribución de este documento de licencia. Cobrar por estos conceptos no está permitido. This is an unofficial translation of the GNU Free Documentation License into Spanish. It was not published by the Free Software Foundation, and does not legally state the distribution terms for documentation that uses the GNU FDL – only the original English text of the GNU FDL does that. However, we hope that this translation will help Spanish speakers understand the GNU FDL better. Ésta es una traducción no oficial de la GNU Free Document License a Español (Castellano). No ha sido publicada por la Free Software Foundation y no establece legalmente los términos de distribución para trabajos que usen la GFDL (sólo el texto de la versión original en Inglés de la GFDL lo hace). Sin embargo, esperamos que esta traducción ayude a los hispanohablantes a entender mejor la GFDL. La versión original de la GFDL esta disponible en la Free Software Foundation. Esta traducción está basada en una de la versión 1.2 por Joaquín Seoane. Copyright (C) 2000, 2001, 2002, 2007, 2008 Free Software Foundation, Inc. <http://www.fsf.org> Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed. Se permite la copia y distribución de copias literales de este documento de licencia, pero no se permiten cambios.
 
-**Preámbulo**
+**O. PREÁMBULO**
 
 El propósito de esta Licencia es permitir que un manual, libro de texto, u otro documento escrito sea “libre” en el sentido de libertad: asegurar a todo el mundo la libertad efectiva de copiarlo y redistribuirlo, con o sin odificaciones, de manera comercial o no. En segundo término, esta Licencia proporciona al autor y al editor una manera de obtener reconocimiento por su trabajo, sin que se le considere responsable de las modificaciones realizadas por otros.
 
@@ -95,7 +95,7 @@ Puede añadir un pasaje de hasta cinco palabras como Texto de Cubierta Delantera
 
 Con esta Licencia ni el/los autor(es) ni el/los editor(es) del Documento dan permiso para usar sus nombres para publicidad ni para asegurar o implicar aprobación de cualquier Versión Modificada.
 
-5. COMBINACIÓN DE DOCUMENTOS
+**5. COMBINACIÓN DE DOCUMENTOS**
 
 Usted puede combinar el Documento con otros documentos liberados bajo esta Licencia, bajo los términos definidos en la sección 4 anterior para versiones modificadas, siempre que incluya en la combinación todas las Secciones Invariantes de todos los documentos originales, sin modificar, listadas todas como Secciones Invariantes del trabajo combinado en su nota de licencia. Así mismo debe incluir la Limitación de Garantía.
 
@@ -137,7 +137,7 @@ The Free Software Foundation may publish new, revised versions of the GNU Free D
 
 Cada versión de la Licencia tiene un número de versión que la distingue. Si el Documento especifica que se aplica una versión numerada en particular de esta licencia “o cualquier versión posterior”, usted tiene la opción de seguir los términos y condiciones de la versión especificada o cualquiera posterior que haya sido publicada (no como borrador) por la Free Software Foundation. Si el Documento no especifica un número de versión de esta Licencia, puede escoger cualquier versión que haya sido publicada (no como borrador) por la Free Software Foundation. Si el Documento especifica que un apoderado puede decidir qué versión futura de esta Licencia puede ser utilizada, esa frase de aceptación del apoderado de una versión le autoriza permanentemente a escoger esa versión para el Documento.
 
-**11. Re-Licenciamiento**
+**11. RE-LICENCIAMIENTO**
 
 Un “Sitio de Colaboración Masiva Multiautor” (o “Sitio CMM”) significa cualquier servidor World Wide Web que publique trabajos que puedan ser sujetos a copyright y que también provea medios prominentes para que cualquiera pueda editar esos trabajos. Una Wiki pública que cualquiera puede editar es un ejemplo de tal servidor. Una “Colaboración Masiva Multiautor” (o “CMM”) contenida en el sitio significa cualquier colección de trabajos que puedan ser sujetos a copyright publicados en el sitio de CMM.
 
