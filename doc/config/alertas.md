@@ -69,10 +69,14 @@
 
 ![raspi_1](doc/img/imaxes-alertas/alertas13.png)
 
-- Unha vez feito o trigger, en “Actions”,”Trigger actions” crearemos unha acción chamada "Monitorización de archivo". Cas seguintes condicións:
+- A continuación, iremos a "Administration" - "Users" - "Admin" - "Media" e configuraremos o correo electrónico para ese usuario.
+
+![raspi_1](doc/img/imaxes-alertas/alertas16.png)
+
+- Unha vez feito o trigger, en “Actions” - ”Trigger actions” crearemos unha acción chamada "Monitorización de archivo", cas seguintes condicións:
 
     - Que a gravedade do trigger sexa: "Average" (Moderada).
-    - Que o trigger sexa igual ao item que conten o trigger do arquivo a monitorizar.
+    - Que o trigger sexa igual ao Item que contén o trigger do arquivo a monitorizar.
 
 ![raspi_1](doc/img/imaxes-alertas/alertas12.png)
    
