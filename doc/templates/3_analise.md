@@ -64,7 +64,7 @@ Usuarios do sistema de monitorización Zabbix:
   - Ethernet: Gigabit Ethernet sobre USB 2.0 (300 Mbps).
   - HDMI.
   - 4 portos USB 2.0.
-  - Poto CSI para conectar unha cámara.
+  - Porto CSI para conectar unha cámara.
   - Porto DSI para conectar unha pantalla táctil.
   - Saída de audio estéreo e vídeo composto.
   - Micro-SD.
