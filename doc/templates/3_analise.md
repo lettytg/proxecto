@@ -196,3 +196,4 @@ Este proxecto está centrado en cubrir unha necesidade que a meirande parte da x
 - Control da humidade e temperatura do terreo.
 - Realizar unha base de datos con todos os datos das prantas do invernadoiro, coa súas respectivas necesidades.
 - Creación de unha aplicación móbil que xestione de forma manual todos os compoñentes do invernadoiro.
+- Crear un sistema de alertas empregando Telegram.
