@@ -35,8 +35,8 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 > *TODO*: Simplemente indexa ordenadamente todo tu proyecto.
 
 1. Anteproxecto
-    * 1.1. [Idea](doc/templates/1_idea.md)
-    * 1.2. [Necesidades](doc/templates/2_necesidades.md)
+    1.1. [Idea](doc/templates/1_idea.md)
+    1.2. [Necesidades](doc/templates/2_necesidades.md)
 2. [Análises](doc/templates/3_analise.md)
 3. [Planificación](doc/templates/4_planificacion.md)
 4. [Deseño](doc/templates/5_deseño.md)
