@@ -1,7 +1,13 @@
 ## CERTIFICADO E ACTIVACIÓN DO SSL.
 
+- **SSL** é un estándar de seguridade global que permite a transferencia de datos cifrados entre un navegador e un servidor web.
 
-- Vamos a nosa máquina e habilitamos o módulo **rewrite** e **SSL** de Apache2.
+- Para establecer esta conexión segura, instalase no servidor web un certificado SSL que cumpre estas dúas funcións:
+
+    - Autenticar a identidade do sitio web, garantizando aos visitantes que no están nun sitio falso.
+    - Cifrar a información transmitida.
+
+- Procederemos a ir a nosa máquina e habilitaremos o módulo **rewrite** e **SSL** de Apache2.
 
 
 ![raspi_1](doc/img/imaxes-certi/certi1.png)
