@@ -189,7 +189,7 @@ Definir, de forma xeral, os pasos que se han seguir para levar a cabo o proxecto
 7. Instalación e configuración de Arduino UNO.
 8. Instalación e configuración de Zabbix 5.4.
 9. Monitorización do sensor de temperatura en Zabbix.
-10. configuración do servizo SMTP con Postfix para recibir alertas de Zabbix.
+10. Configuración do servizo SMTP con Postfix para recibir alertas de Zabbix.
 
 ## Melloras futuras
 
