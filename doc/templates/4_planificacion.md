@@ -53,7 +53,11 @@ Pódense indicar os recursos materiais e humanos asociados a cada tarefa ou, se 
 ##### Tarefa 2: Configuración do Zabbix.
  
 - Configuración do Zabbix, para que poida monitorizar os valores recollidos polo sensor de temperatura e humidade DHT11, e monitorizar o propio servidor e ver o estado no que se encontra.
- 
+
+##### Tarefa 3: Configuración de alertas en Zabbix.
+
+- Configuración no Zabbix, para que poida mandarnos un correo cando se produza unha alerta no servidor.
+
 #### FASE 4: CONFIGURACIÓN DO ARDUINO UNO.
 
 ##### Tarefa 1: Instalación de IDE de Arduino.
