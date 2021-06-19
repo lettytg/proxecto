@@ -27,7 +27,7 @@
 
 - Cando teñamos o servizo reiniciado, procederemos a mandar un correo a través da terminal co seguinte comando:
 
-`echo "PROBA" | mail -s "ASUNTO DO CORREO" alertasinvernao@gmail.com`
+`echo "PROBA" | mail -s "PROBA CORREO DENDE TERMINAL" alertasinvernao@gmail.com`
 
 ![raspi_1](doc/img/imaxes-alertas/alertas4.png)
 
