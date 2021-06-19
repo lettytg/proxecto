@@ -126,7 +126,7 @@ En este caso crearemos unha Sociedade Limitada Unipersoal que é unha forma xur�
 
 Funciona igual que unha Sociedade Limitada, coa única diferencia de que todas as responsabilidades e os beneficios recaen sobre ti.
 
-- **Características da Socieade Limitada Unipersoal**:
+- **Características da Sociedade Limitada Unipersoal**:
 
     - O capital mínimo é de 3000 euros, ao igual que en unha SL.
     - Aínda que sexas socio único, terá que deixar constancia das xuntas xerais nunha acta ca túa firma ou a do teu respresentante.
