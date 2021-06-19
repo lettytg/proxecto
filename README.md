@@ -18,7 +18,7 @@ Isto recollese no seguinte punto: [Imprantación.]((doc/templates/6_implantacion
 ## Sobre o autor
 
 O meu nome é Leticia Tuñas García, son Técnico en Sistemas Microinformáticos e Redes (SMR), actualmente estudo Administración de Sistemas Informáticos en Rede, 
-estou desarrollando este mesmo proxecto e traballando na empresa na que realicei as prácticas. Ao mesmo tempo tamén estou estudando o primeiro ano de Desenrolo de Aplicacións Multiplataforma.
+estou desenrolando este mesmo proxecto e traballando na empresa na que realicei as prácticas. Ao mesmo tempo tamén estou estudando o primeiro ano de Desenrolo de Aplicacións Multiplataforma.
 
 Este proxecto é unha oportunidade para poder ver un sistema de monitorización imprantado nunha infraestrutura pouco común, como é un invernadoiro.
 
