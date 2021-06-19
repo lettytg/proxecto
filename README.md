@@ -58,6 +58,9 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
     5.8. [MONITORIZACIÓN DO SENSOR DE TEMPERATURA CON ZABBIX](doc/config/monitorizacion.md)
 
+    5.9. [CONFIGURACIÓN DAS ALERTAS CON ZABBIX](doc/config/alertas.md)
+
+
 ## Guía de contribución
 
 Todas as ferramentas software que son empregadas en este proxecto son de software libre e de código aberto, con isto teremos a liberdade de executar, para estudar e modificar, para redistribuir e para mellorar e distribuis as copias.
