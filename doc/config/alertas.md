@@ -6,6 +6,7 @@
 - Instalamos o servidor de correo Postfix e o paquete mail-utils
 
 `sudo apt install postfix`
+
 `sudo apt install mail-utils`
 
 - Seleccionamos "Sen configuración", para despois realizala manualmente.  
