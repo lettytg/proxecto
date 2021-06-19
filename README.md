@@ -5,7 +5,7 @@
 O proxecto consiste en crear un mecanismo de monitorización e control de temperatura e humidade para os cultivos do invernadoiro.
 
 A idea sería crear unha infraestrutura na cal poidamos mellorar a calidade dos nosos cultivos, de unha maneira automática e desatendida para o usuario encargado, para iso teríamos que levar un control da temperatura e humidade do invernadoiro. 
-Para controlar isto necesitaríamos un microordenador como por exemplo unha Raspberry Pi, un sensor que leve o control ambiental e un dispositivo hardware para a súa ventilación.
+Para controlar isto necesitaríamos un microordenador como por exemplo Arduino UNO e unha Raspberry Pi onde irá imprantado o sistema de monitorización. Necesitaremos un sensor que leve o control ambiental e un ventilador para o sistema de refrixeración.
 
 Para abarcar todo o mencionado, necesitaremos un sistema de tempo real que controle a cantidade de temperatura e humidade do invernadoiro, en este utilizaríamos Zabbix.
 
@@ -15,17 +15,12 @@ Zabbix permitiranos recompilar información dos sensores que irán conectados a 
 
 > Ver [Implantación]((doc/templates/6_implantacion.md))
 
-## Uso
-
-> *TODO*: Es este apartado describe brevemente cómo se usará el software que proyectas. Si tiene una interfaz de terminal, describe aquí su sintaxis. Si tiene una interfaz gráfica de usuario, describe aquí **sólo el uso** (a modo de sumario) **de los aspectos más relevantes de su funcionamiento** (máxima brevedad, como si fuese un anuncio reclamo o comercial).
-> Si tu proyecto es documental, realiza una especificación de cómo planteas estas interfaces, con ejemplos incluso o esquemas de diseño. En otras palabras, realiza este apartado independientemente que no haya implementación.
-
 ## Sobre o autor
 
 O meu nome é Leticia Tuñas García, son Técnico en Sistemas Microinformáticos e Redes (SMR), actualmente estudo Administración de Sistemas Informáticos en Rede, 
-estou desarrollando este mesmo proxecto e traballando na empresa na que estou realizando as prácticas. Ao mesmo tempo tamén estou estudando o primeiro ano de Desenrolo de Aplicacións Multiplataforma.
+estou desarrollando este mesmo proxecto e traballando na empresa na que realicei as prácticas. Ao mesmo tempo tamén estou estudando o primeiro ano de Desenrolo de Aplicacións Multiplataforma.
 
-Este proxecto é unha oportunidade para poder ver un sistema de monitorización implantado nunha infraestrutura pouco común, como é un invernadoiro.
+Este proxecto é unha oportunidade para poder ver un sistema de monitorización imprantado nunha infraestrutura pouco común, como é un invernadoiro.
 
 Todo isto xurde como unha inquietude, xa que durante os anos cursados, nunca nos adentramos no mundo da monitorización, por iso, con este proxecto espero levar unha gran aprendizaxe.
 
@@ -65,7 +60,7 @@ ou calquera outra que posteriormente publique a Fundación para o Software Libre
 
 ## Guía de contribución
 
-Todas as ferramentas software que son empregadas en este proxecto son de software libre e de código aberto, con isto teremos a liberdade de executar os programas cando desexemos, con calquera proposito, a liberdade de estudar como é o funcionamento de cada un de eles 
+Todas as ferramentas software que son empregadas en este proxecto son de software libre e de código aberto, con isto teremos a liberdade de executar, para estudar e modificar, para redistribuir e para mellorar e distribuis as copias.
 
 ## Enlaces 
 
