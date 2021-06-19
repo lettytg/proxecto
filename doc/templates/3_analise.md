@@ -7,8 +7,7 @@ Este documento describe os requirimentos para Invernao especificando que funcion
 
 O proxecto consiste en crear un invernadoiro automatizado, xa que nos da un nivel de independencia moi grande, porque poden operar, de forma autónama, sen necesidade da presenza do productor de forma permanente no sitio. Aforrase tempo de traballo, xa que é o encargado de realizar algunhas de esas tarefas que se requiren para o seu bo funcionamento. 
 
-O invernadoiro sería controlado por un sistema de monitorización no cal poderíamos revisar e controlar a temperatura do mesmo en calquera momento e en calquera lugar.
-
+O invernadoiro sería controlado por un sistema de monitorización no cal poderíamos revisar e controlar a temperatura do mesmo en calquera momento e en calquera lugar, e poder controlar as alertas xeradas no servidor vía email.
 
 
 ## Funcionalidades
