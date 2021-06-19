@@ -68,16 +68,16 @@ Algún de eles son:
             3. Dashboard.
         - Configurar:
             1. Dispositivos (HOST): Equipo que se monitorizan.
-            2. Items
+            2. Items.
             3. Condicións de erros (triggers), ou problemas.
-            4. Alertas (comunicación ao usuario)
+            4. Alertas (comunicación ao usuario).
 
 **BACKEND**
 
     Encargado de:
         - Almacenaer datos centralizadamente.
         - Analizar os datos recolectados.
-        - Notificar aos usuarios..
+        - Notificar aos usuarios.
         - Almacenar os datos na BD.
         - Administrar a BD.
         
