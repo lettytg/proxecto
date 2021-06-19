@@ -11,7 +11,7 @@ Para abarcar todo o mencionado, necesitaremos un sistema de tempo real que contr
 
 Zabbix permitiranos recompilar información dos sensores que irán conectados a placa que enviarán ordes aos dispositivos de ventilación.
 
-## Instalación / Puesta en marcha
+## Instalación - Posta en marcha
 
 Isto recollese no seguinte punto: [Imprantación.]((doc/templates/6_implantacion.md))
 
