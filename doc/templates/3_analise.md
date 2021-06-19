@@ -70,7 +70,6 @@ Usuarios do sistema de monitorización Zabbix:
   - Micro-SD.
   - Power-over-Ethernet (PoE).
 
-
 - Imaxes da Raspberry PI que estou a utilizar:
 
 
