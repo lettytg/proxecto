@@ -1,6 +1,6 @@
 # Monitorización de invernadoiro con Zabbix.
 
-## Descripción
+## Descrición
 
 O proxecto consiste en crear un mecanismo de monitorización e control de temperatura e humidade para os cultivos do invernadoiro.
 
