@@ -35,7 +35,7 @@ En este digrama podemos contemplar que estarán conectados un sensor de temperat
 
 A Raspberry Pi consiste nunha placa base que soporta distintos compoñentes de un ordenador como un procesador ARM de hasta 1500 MHz, un chip gráfico e unha memoria RAM de ata 8 GB.
 
-Ademáis, ten moitas máis cualidade por exemplo:
+Ademáis, ten moitas máis cualidadeS por exemplo:
 
     1. Permite conectar dispositivos periféricos grazas aos seus portos (HDMI, USB). Por exemplo, unha pantalla, teclado, rato.
 
