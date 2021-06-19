@@ -17,7 +17,7 @@
 
 - Unha vez feito isto, seleccionaremos "Configurar aplicacións e portos".
 
-- Aquí abriremos os portos correspondentes para HTTP (80) e HTTPS (443). 
+- Aquí abriremos os portos correspondentes para HTTP (80) e HTTPS (443), e seleccionaremos a IP do dispositivo.
 
 
 ![raspi_1](doc/img/imaxes-portos/porto1.png)
