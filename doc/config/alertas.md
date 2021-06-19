@@ -61,12 +61,23 @@
 
 ### CONFIGURACIÓN DE ALERTAS
 
-- En **Configuration** - **Actions** - **Trigger actions** - **Report problems to Zabbix administrators**. Engadiremos "Host equals Zabbix server". Unha vez agregado en "Operations" editaremos a opción "Send message to user groups: Zabbix administrators via all media" e engadiremos o correo electrónico e a mensaxe por defecto que se vai recibir cando se xere unha alerta no servidor.
+- Vamos configurar o disparador/trigger que se executará cando non reciba valores do archivo a monitorizar.
 
+![raspi_1](doc/img/imaxes-alertas/alertas11.png)
 
-![raspi_1](doc/img/imaxes-alertas/alertas7.1.png)
+- Imos a paralizar a monitorización do archivo para simular a alerta.
 
-![raspi_1](doc/img/imaxes-alertas/alertas8.png)
+![raspi_1](doc/img/imaxes-alertas/alertas13.png)
 
+- Unha vez feito o trigger, en “Actions”,”Trigger actions” crearemos unha acción chamada "Monitorización de archivo". Cas seguintes condicións:
+
+    - Que a gravedade do trigger sexa: "Average" (Moderada).
+    - Que o trigger sexa igual ao item que conten o trigger do arquivo a monitorizar.
+
+![raspi_1](doc/img/imaxes-alertas/alertas12.png)
+   
+- Unha vez agregadas as condicións editaremos a opción "Send message to user groups: Zabbix administrators via all media" e engadiremos o correo electrónico e a mensaxe personalizada que se vai recibir cando todas as condicións sexan verdadeiras.
+
+![raspi_1](doc/img/imaxes-alertas/alertas14.png)
 
 
