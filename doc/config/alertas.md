@@ -63,6 +63,8 @@
 
 - Vamos configurar o disparador/trigger que se executará cando non reciba valores do archivo a monitorizar.
 
+- Utilizaremos **nodata**, que é unha función que nos permite comprobar que non se están recibindo datos.
+
 ![raspi_1](doc/img/imaxes-alertas/alertas11.png)
 
 - Imos a paralizar a monitorización do archivo para simular a alerta.
